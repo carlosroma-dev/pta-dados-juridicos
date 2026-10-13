@@ -1,0 +1,19 @@
+
+
+# Rode em fase3_interface/.streamlit/, rode o app de dentro de fase3_interface/:
+#     cd fase3_interface
+#     streamlit run app.py
+
+[theme]
+base = "light"
+primaryColor = "#D85A30"               # coral — botões, foco, links, destaques
+backgroundColor = "#FAF9F5"            # creme — fundo principal
+secondaryBackgroundColor = "#F0EEE6"   # creme mais fechado — sidebar e bolhas
+textColor = "#2B2B28"                  # grafite — texto
+font = "sans serif"
+
+[client]
+showErrorDetails = false               # erros não vazam stack trace pra tela
+
+[browser]
+gatherUsageStats = false               # sem telemetria

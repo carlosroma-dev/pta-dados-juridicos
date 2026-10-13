@@ -1,0 +1,48 @@
+# Dependências do BACKEND (API + scheduler + pipeline de dados).
+# Usado pelo Dockerfile e pelos serviços do Railway. Todas as versões fixadas.
+# O frontend tem seu próprio arquivo enxuto em fase3_interface/requirements.txt.
+
+# ── Banco ─────────────────────────────────────────────────────────────────────
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.36
+pgvector==0.3.6
+
+# ── Dados ─────────────────────────────────────────────────────────────────────
+pandas==2.2.3
+openpyxl==3.1.5
+pdfplumber==0.11.4
+pydantic==2.10.4
+
+# ── Embeddings ────────────────────────────────────────────────────────────────
+sentence-transformers==3.3.1
+einops==0.8.0
+
+# ── LLM / IA ──────────────────────────────────────────────────────────────────
+langchain==0.3.14
+langchain-core==0.3.29
+langchain-community==0.3.14
+langchain-openai==0.3.0
+langgraph==0.2.61
+openai==1.59.2
+
+# ── API ───────────────────────────────────────────────────────────────────────
+fastapi==0.115.6
+uvicorn==0.32.1
+python-dotenv==1.0.1
+httpx==0.28.1
+python-multipart==0.0.30
+
+# ── Interface ─────────────────────────────────────────────────────────────────
+streamlit==1.41.1
+plotly==5.24.1
+
+# ── Google Drive ──────────────────────────────────────────────────────────────
+google-api-python-client==2.196.0
+google-auth==2.53.0
+google-auth-httplib2==0.2.0
+
+# ── Email (Resend) ────────────────────────────────────────────────────────────
+resend==2.30.1
+
+# ── Scheduler (automações agendadas) ──────────────────────────────────────────
+apscheduler==3.10.4

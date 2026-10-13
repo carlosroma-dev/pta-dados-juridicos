@@ -1,0 +1,393 @@
+﻿movimentacao_id,numero_processo,data_movimentacao,tipo_ato,advogado_id,advogado_responsavel,descricao,prazo_gerado,concluido
+1,2966787-79.2022.1.41.9944,2025-08-14,despacho,4,Dra. Fontes,diligência externa necessária,,False
+2,5514997-95.2024.1.84.8098,2026-02-18,embargos_de_declaracao,2,Dra. Cavalcante,aguardando manifestação da parte contrária,,True
+3,9398629-61.2022.5.88.8253,2025-09-11,sentenca,4,Dra. Fontes,,,True
+4,7789809-22.2020.1.73.9031,2025-06-25,agravo_regimental,3,Dr. Melo,juntada de documentos realizada,,False
+5,4229107-99.2020.7.61.3978,2026-04-15,sentenca,1,Dr. Barros,,,
+6,8892606-62.2022.2.87.2168,2025-12-14,laudo_pericial,1,Dr. Barros,documentos pendentes de entrega pelo cliente,,False
+7,1757615-27.2025.7.10.3762,2026-01-24,recurso_de_apelacao,1,Dr. Barros,audiência marcada para 11 de abril de 2026,,True
+8,9071705-28.2021.9.78.4746,2025-10-15,citacao,2,Dra. Cavalcante,Prazo fatal: 2026-07-02,2026-02-08,False
+9,3248366-98.2020.5.11.6279,2026-03-31,acordo_extrajudicial,4,Dra. Fontes,prazo para recurso: 14 dias úteis a contar da intimação,,True
+10,8368255-39.2020.9.60.4414,2025-12-30,intimacao,2,Dra. Cavalcante,diligência externa necessária,2026-08-03,
+11,6663627-76.2023.9.26.5770,2025-06-02,habilitacao,2,Dra. Cavalcante,juntada de documentos realizada,,False
+12,4865461-96.2025.2.64.9143,2024-06-02,intimacao,3,Dr. Melo,audiência marcada para 2026-04-14,2026-09-17,True
+13,2884639-86.2023.2.31.8737,2025-11-28,embargos_de_declaracao,1,Dr. Barros,audiência marcada para 20 de abril de 2026,,
+14,7236875-79.2024.7.97.5566,2025-01-22,laudo_pericial,1,Dr. Barros,,,True
+15,5788467-41.2023.8.93.8134,2026-04-28,intimacao,2,Dra. Cavalcante,audiência marcada para 2026-07-09,2026-04-11,False
+16,3505690-87.2020.8.52.6260,2025-11-20,acordo_extrajudicial,1,Dr. Barros,diligência externa necessária,,False
+17,8588997-88.2020.6.29.5987,2025-10-02,intimacao,1,Dr. Barros,juntada de documentos realizada,2026-12-03,
+18,9498791-62.2022.6.73.9564,2025-07-21,contestacao,2,Dra. Cavalcante,,,False
+19,9992831-61.2022.4.35.1469,2026-04-13,replica,2,Dra. Cavalcante,documentos pendentes de entrega pelo cliente,,False
+20,6101036-60.2022.7.49.3295,2025-12-11,intimacao,1,Dr. Barros,aguardando manifestação da parte contrária,2026-05-03,True
+21,6096719-87.2023.1.41.6180,2025-06-16,audiencia_de_instrucao,4,Dra. Fontes,Prazo fatal: 03/10/2026,,
+22,2328070-99.2024.8.57.5561,2025-02-05,despacho,1,Dr. Barros,aguardando manifestação da parte contrária,2026-06-25,False
+23,2231929-89.2024.6.41.5461,2026-03-29,recurso_de_apelacao,2,Dra. Cavalcante,documentos pendentes de entrega pelo cliente,,
+24,5068524-45.2025.9.91.6906,2024-09-19,intimacao,1,Dr. Barros,diligência externa necessária,,False
+25,7724543-49.2023.9.44.7412,2026-04-20,recurso_de_apelacao,4,Dra. Fontes,aguardando manifestação da parte contrária,2026-10-16,True
+26,5733649-38.2020.2.35.3379,2026-01-14,sentenca,3,Dr. Melo,,,False
+27,6992158-64.2024.5.43.7750,2025-10-18,habilitacao,4,Dra. Fontes,audiência marcada para 2026-12-25,2026-10-18,False
+28,3710559-31.2020.9.95.2540,2025-06-21,audiencia_de_instrucao,4,Dra. Fontes,prazo para recurso: 28 dias úteis a contar da intimação,2026-05-10,False
+29,5733649-38.2020.2.35.3379,2025-12-02,peticao_inicial,1,Dr. Barros,prazo para recurso: 21 dias úteis a contar da intimação,2026-10-26,True
+30,4584224-94.2025.2.57.2511,2026-04-05,acordo_extrajudicial,1,Dr. Barros,documentos pendentes de entrega pelo cliente,,False
+31,8097721-13.2023.1.47.8354,2025-09-12,laudo_pericial,4,Dra. Fontes,,,False
+32,4452862-76.2021.3.27.3238,2026-03-31,audiencia_de_instrucao,2,Dra. Cavalcante,documentos pendentes de entrega pelo cliente,,False
+33,5901155-82.2023.2.89.7717,2025-12-10,recurso_de_apelacao,3,Dr. Melo,Prazo fatal: 20/08/26,2026-01-27,True
+34,3710559-31.2020.9.95.2540,2025-10-28,replica,4,Dra. Fontes,documentos pendentes de entrega pelo cliente,2026-05-17,
+35,1093623-59.2025.7.92.5441,2026-03-06,despacho,2,Dra. Cavalcante,documentos pendentes de entrega pelo cliente,,False
+36,6368709-92.2024.7.99.9426,2025-11-27,recurso_de_apelacao,2,Dra. Cavalcante,prazo para recurso: 21 dias úteis a contar da intimação,,True
+37,1099617-37.2023.9.61.1793,2026-04-11,peticao_inicial,2,Dra. Cavalcante,,,False
+38,2658962-39.2022.5.95.8856,2026-03-22,habilitacao,2,Dra. Cavalcante,documentos pendentes de entrega pelo cliente,,True
+39,8905709-90.2020.9.55.2471,2025-04-19,memoriais,4,Dra. Fontes,audiência marcada para 24 de março de 2026,,True
+40,7243958-65.2020.5.25.5047,2026-04-11,recurso_de_apelacao,4,Dra. Fontes,,,False
+41,5058333-37.2021.3.98.8848,2026-02-14,replica,4,Dra. Fontes,Prazo fatal: 2026-04-14,2026-08-18,True
+42,2658962-39.2022.5.95.8856,2026-04-22,replica,4,Dra. Fontes,Prazo fatal: 2026-04-21,,True
+43,2236315-26.2022.5.82.8939,2025-06-21,sentenca,4,Dra. Fontes,prazo para recurso: 25 dias úteis a contar da intimação,,
+44,7765112-69.2024.9.62.5648,2025-10-16,sentenca,4,Dra. Fontes,diligência externa necessária,2026-02-05,False
+45,1165147-13.2020.2.47.5874,2026-02-21,memoriais,3,Dr. Melo,,,False
+46,1248003-72.2024.2.80.8472,2025-03-07,despacho,3,Dr. Melo,prazo para recurso: 15 dias úteis a contar da intimação,,False
+47,8816646-78.2020.7.70.9224,2025-10-09,sentenca,4,Dra. Fontes,juntada de documentos realizada,,True
+48,9057219-99.2020.9.96.3254,2025-12-24,peticao_inicial,1,Dr. Barros,juntada de documentos realizada,,
+49,9992831-61.2022.4.35.1469,2025-08-29,recurso_de_apelacao,3,Dr. Melo,audiência marcada para 2026-09-18,,False
+50,8588997-88.2020.6.29.5987,2025-01-21,recurso_de_apelacao,1,Dr. Barros,audiência marcada para 21/05/2026,2026-08-15,True
+51,1099617-37.2023.9.61.1793,2024-12-21,habilitacao,4,Dra. Fontes,Prazo fatal: 21/09/2026,,False
+52,2869625-86.2025.7.14.5837,2025-08-02,citacao,2,Dra. Cavalcante,Prazo fatal: 21/01/2026,,True
+53,9071705-28.2021.9.78.4746,2024-06-28,sentenca,2,Dra. Cavalcante,,,False
+54,6034606-21.2023.6.18.6684,2026-01-28,sentenca,2,Dra. Cavalcante,diligência externa necessária,2026-11-24,
+55,3168718-77.2025.2.92.8027,2025-05-10,habilitacao,3,Dr. Melo,,,False
+56,9086174-80.2025.1.81.3292,2025-09-17,recurso_de_apelacao,4,Dra. Fontes,documentos pendentes de entrega pelo cliente,,False
+57,3168718-77.2025.2.92.8027,2026-04-13,habilitacao,1,Dr. Barros,aguardando manifestação da parte contrária,,False
+58,1754781-28.2025.6.89.2162,2026-02-25,contestacao,4,Dra. Fontes,prazo para recurso: 29 dias úteis a contar da intimação,,False
+59,9686751-57.2022.7.62.3494,2026-01-15,contestacao,4,Dra. Fontes,prazo para recurso: 6 dias úteis a contar da intimação,,True
+60,5788467-41.2023.8.93.8134,2026-01-12,habilitacao,2,Dra. Cavalcante,juntada de documentos realizada,,False
+61,1667591-67.2025.4.69.9424,2026-01-24,sentenca,3,Dr. Melo,aguardando manifestação da parte contrária,2026-11-04,True
+62,3585301-47.2021.7.73.3469,2026-04-08,laudo_pericial,1,Dr. Barros,Prazo fatal: 1 de setembro de 2026,,
+63,4202942-75.2025.6.91.7611,2025-05-21,replica,4,Dra. Fontes,juntada de documentos realizada,,False
+64,3242098-97.2025.4.44.9916,2026-04-08,laudo_pericial,1,Dr. Barros,documentos pendentes de entrega pelo cliente,,True
+65,1272937-41.2023.5.75.9958,2025-11-24,embargos_de_declaracao,4,Dra. Fontes,,,True
+66,6865513-17.2021.7.21.3938,2025-12-08,recurso_de_apelacao,2,Dra. Cavalcante,aguardando manifestação da parte contrária,2026-11-04,True
+67,4824419-32.2024.5.47.3265,2025-09-27,audiencia_de_instrucao,1,Dr. Barros,juntada de documentos realizada,,True
+68,4601686-30.2021.5.52.7745,2025-10-23,contestacao,3,Dr. Melo,Prazo fatal: 2026-02-03,,False
+69,3248366-98.2020.5.11.6279,2026-03-13,sentenca,3,Dr. Melo,documentos pendentes de entrega pelo cliente,,False
+70,6865513-17.2021.7.21.3938,2026-02-08,contestacao,2,Dra. Cavalcante,,,
+71,8097721-13.2023.1.47.8354,2025-12-30,recurso_de_apelacao,3,Dr. Melo,prazo para recurso: 20 dias úteis a contar da intimação,,False
+72,5996426-23.2022.8.20.3566,2025-11-06,peticao_inicial,2,Dra. Cavalcante,juntada de documentos realizada,,False
+73,9398629-61.2022.5.88.8253,2025-08-08,replica,1,Dr. Barros,documentos pendentes de entrega pelo cliente,,True
+74,3585301-47.2021.7.73.3469,2026-03-23,memoriais,2,Dra. Cavalcante,aguardando manifestação da parte contrária,2026-05-02,True
+75,4601686-30.2021.5.52.7745,2025-10-31,embargos_de_declaracao,1,Dr. Barros,aguardando manifestação da parte contrária,2026-10-06,True
+76,5661974-14.2020.6.39.3137,2025-03-24,acordo_extrajudicial,2,Dra. Cavalcante,juntada de documentos realizada,2026-10-31,False
+77,7862554-22.2024.7.83.6459,2025-12-27,laudo_pericial,1,Dr. Barros,diligência externa necessária,2026-05-22,False
+78,2632721-15.2024.7.90.9593,2026-03-31,audiencia_de_instrucao,4,Dra. Fontes,juntada de documentos realizada,2026-09-21,False
+79,8892606-62.2022.2.87.2168,2025-09-25,despacho,1,Dr. Barros,prazo para recurso: 7 dias úteis a contar da intimação,,True
+80,8892606-62.2022.2.87.2168,2026-01-11,despacho,2,Dra. Cavalcante,Prazo fatal: 30 de novembro de 2026,,False
+81,5068524-45.2025.9.91.6906,2024-05-23,peticao_inicial,3,Dr. Melo,prazo para recurso: 15 dias úteis a contar da intimação,2026-01-31,False
+82,1099617-37.2023.9.61.1793,2025-08-31,recurso_de_apelacao,4,Dra. Fontes,prazo para recurso: 16 dias úteis a contar da intimação,2026-02-16,True
+83,2236315-26.2022.5.82.8939,2025-09-14,despacho,2,Dra. Cavalcante,prazo para recurso: 5 dias úteis a contar da intimação,,True
+84,2328070-99.2024.8.57.5561,2026-03-21,recurso_de_apelacao,2,Dra. Cavalcante,documentos pendentes de entrega pelo cliente,,True
+85,6416661-36.2021.8.21.8496,2026-04-26,intimacao,3,Dr. Melo,juntada de documentos realizada,,True
+86,9057219-99.2020.9.96.3254,2025-08-28,sentenca,3,Dr. Melo,prazo para recurso: 17 dias úteis a contar da intimação,,True
+87,6414076-16.2021.7.78.8273,2025-12-01,replica,3,Dr. Melo,Prazo fatal: 2026-09-06,,True
+88,9686751-57.2022.7.62.3494,2025-11-17,recurso_de_apelacao,3,Dr. Melo,documentos pendentes de entrega pelo cliente,2026-06-10,True
+89,7236875-79.2024.7.97.5566,2026-04-24,agravo_regimental,1,Dr. Barros,juntada de documentos realizada,,True
+90,3395583-64.2024.4.41.2181,2026-03-14,agravo_regimental,1,Dr. Barros,prazo para recurso: 23 dias úteis a contar da intimação,,True
+91,5953905-94.2022.5.44.3245,2025-12-29,peticao_inicial,3,Dr. Melo,audiência marcada para 06/03/26,,False
+92,3505690-87.2020.8.52.6260,2026-02-24,citacao,2,Dra. Cavalcante,prazo para recurso: 8 dias úteis a contar da intimação,2026-11-30,True
+93,4326518-76.2023.4.36.8530,2026-03-10,citacao,2,Dra. Cavalcante,,,False
+94,1667591-67.2025.4.69.9424,2026-03-22,sentenca,4,Dra. Fontes,aguardando manifestação da parte contrária,,True
+95,5472823-70.2022.4.41.7624,2026-03-28,citacao,4,Dra. Fontes,documentos pendentes de entrega pelo cliente,,
+96,4601686-30.2021.5.52.7745,2026-03-05,acordo_extrajudicial,1,Dr. Barros,aguardando manifestação da parte contrária,,False
+97,3734843-61.2021.3.94.2954,2026-02-28,memoriais,3,Dr. Melo,Prazo fatal: 30 de janeiro de 2026,2026-07-08,True
+98,7136189-41.2024.2.60.1768,2026-04-16,agravo_regimental,4,Dra. Fontes,documentos pendentes de entrega pelo cliente,,False
+99,5786762-52.2021.9.21.3037,2026-03-25,recurso_de_apelacao,1,Dr. Barros,aguardando manifestação da parte contrária,,False
+100,4865461-96.2025.2.64.9143,2024-06-30,replica,1,Dr. Barros,documentos pendentes de entrega pelo cliente,,False
+101,8097721-13.2023.1.47.8354,2025-01-09,audiencia_de_instrucao,2,Dra. Cavalcante,audiência marcada para 20/08/26,2026-11-26,True
+102,3346094-93.2020.2.94.1759,2025-10-27,memoriais,2,Dra. Cavalcante,audiência marcada para 16 de novembro de 2026,,False
+103,8368372-34.2020.6.43.9691,2025-11-03,despacho,4,Dra. Fontes,audiência marcada para 30/10/2026,2026-03-02,
+104,4180949-86.2020.3.26.7593,2025-11-14,replica,4,Dra. Fontes,aguardando manifestação da parte contrária,,True
+105,2554938-48.2024.1.13.4544,2026-01-05,citacao,2,Dra. Cavalcante,Prazo fatal: 23 de setembro de 2026,2026-01-18,True
+106,7765112-69.2024.9.62.5648,2025-05-28,peticao_inicial,2,Dra. Cavalcante,,2026-03-17,False
+107,1099617-37.2023.9.61.1793,2024-06-01,replica,1,Dr. Barros,diligência externa necessária,,True
+108,1272937-41.2023.5.75.9958,2026-01-12,replica,3,Dr. Melo,diligência externa necessária,2026-07-10,True
+109,9060164-41.2020.5.36.2381,2026-03-01,embargos_de_declaracao,2,Dra. Cavalcante,documentos pendentes de entrega pelo cliente,,True
+110,9898363-27.2020.4.89.2966,2026-04-03,replica,4,Dra. Fontes,juntada de documentos realizada,,
+111,6414076-16.2021.7.78.8273,2026-03-23,citacao,3,Dr. Melo,Prazo fatal: 11 de maio de 2026,,True
+112,3168718-77.2025.2.92.8027,2026-01-28,laudo_pericial,4,Dra. Fontes,juntada de documentos realizada,,False
+113,2236315-26.2022.5.82.8939,2026-04-24,laudo_pericial,4,Dra. Fontes,diligência externa necessária,2026-03-17,False
+114,2236315-26.2022.5.82.8939,2026-03-29,memoriais,1,Dr. Barros,prazo para recurso: 23 dias úteis a contar da intimação,2026-07-18,False
+115,4131852-60.2020.1.89.9739,2026-01-27,despacho,2,Dra. Cavalcante,,,False
+116,2236315-26.2022.5.82.8939,2026-05-01,peticao_inicial,1,Dr. Barros,Prazo fatal: 2026-09-06,2026-12-09,True
+117,2328070-99.2024.8.57.5561,2025-03-24,sentenca,3,Dr. Melo,audiência marcada para 28 de dezembro de 2026,,True
+118,9110060-16.2025.2.29.4716,2026-03-26,contestacao,1,Dr. Barros,Prazo fatal: 6 de abril de 2026,,False
+119,7789809-22.2020.1.73.9031,2025-03-21,citacao,4,Dra. Fontes,audiência marcada para 15/07/26,,False
+120,7999133-20.2023.7.26.1121,2026-01-20,replica,4,Dra. Fontes,diligência externa necessária,2026-01-03,
+121,2842764-33.2025.7.99.7279,2024-11-29,sentenca,4,Dra. Fontes,diligência externa necessária,,False
+122,3263740-44.2022.3.81.5402,2026-03-09,recurso_de_apelacao,2,Dra. Cavalcante,documentos pendentes de entrega pelo cliente,,True
+123,7236875-79.2024.7.97.5566,2025-07-20,memoriais,2,Dra. Cavalcante,juntada de documentos realizada,,False
+124,6034606-21.2023.6.18.6684,2026-04-26,recurso_de_apelacao,4,Dra. Fontes,documentos pendentes de entrega pelo cliente,,False
+125,9804642-71.2024.4.76.5486,2026-02-10,citacao,3,Dr. Melo,prazo para recurso: 22 dias úteis a contar da intimação,,True
+126,8717678-27.2025.5.11.4526,2026-03-30,contestacao,1,Dr. Barros,Prazo fatal: 2026-11-04,,
+127,1185885-59.2023.7.19.8433,2026-02-12,habilitacao,3,Dr. Melo,aguardando manifestação da parte contrária,,
+128,5068524-45.2025.9.91.6906,2023-11-12,contestacao,4,Dra. Fontes,audiência marcada para 2026-07-28,,False
+129,5401874-62.2025.2.46.8337,2026-04-05,replica,3,Dr. Melo,prazo para recurso: 6 dias úteis a contar da intimação,,
+130,7245951-43.2021.4.11.7623,2026-02-07,habilitacao,4,Dra. Fontes,Prazo fatal: 22/10/2026,2026-07-20,True
+131,8368255-39.2020.9.60.4414,2025-09-05,contestacao,3,Dr. Melo,prazo para recurso: 14 dias úteis a contar da intimação,2026-04-21,
+132,5271615-59.2021.2.54.6844,2025-07-15,peticao_inicial,4,Dra. Fontes,diligência externa necessária,,True
+133,6034606-21.2023.6.18.6684,2026-03-19,audiencia_de_instrucao,4,Dra. Fontes,aguardando manifestação da parte contrária,,True
+134,1778149-24.2023.1.86.3557,2026-04-10,replica,3,Dr. Melo,prazo para recurso: 6 dias úteis a contar da intimação,2026-12-05,False
+135,4510407-23.2020.5.18.6055,2026-04-28,sentenca,3,Dr. Melo,,,True
+136,2554938-48.2024.1.13.4544,2025-12-23,citacao,4,Dra. Fontes,audiência marcada para 2026-09-27,,False
+137,4452862-76.2021.3.27.3238,2025-10-19,embargos_de_declaracao,2,Dra. Cavalcante,juntada de documentos realizada,2026-12-11,False
+138,6779292-61.2021.4.86.2783,2026-02-13,memoriais,2,Dra. Cavalcante,juntada de documentos realizada,2026-04-27,True
+139,7323234-16.2020.9.59.5035,2025-05-22,agravo_regimental,4,Dra. Fontes,juntada de documentos realizada,,False
+140,1272937-41.2023.5.75.9958,2025-08-22,laudo_pericial,2,Dra. Cavalcante,prazo para recurso: 12 dias úteis a contar da intimação,,
+141,2545435-52.2025.3.59.7623,2026-01-22,acordo_extrajudicial,1,Dr. Barros,juntada de documentos realizada,,True
+142,2869625-86.2025.7.14.5837,2025-12-03,sentenca,1,Dr. Barros,Prazo fatal: 29/01/26,,True
+143,7724543-49.2023.9.44.7412,2026-03-08,laudo_pericial,1,Dr. Barros,,,False
+144,1411065-96.2022.9.64.8271,2025-11-03,peticao_inicial,3,Dr. Melo,audiência marcada para 2026-11-18,2026-12-31,
+145,7438163-48.2021.3.47.1186,2025-12-27,citacao,2,Dra. Cavalcante,Prazo fatal: 12 de setembro de 2026,,
+146,1754781-28.2025.6.89.2162,2026-03-03,habilitacao,3,Dr. Melo,,2026-02-05,True
+147,1099617-37.2023.9.61.1793,2025-05-11,embargos_de_declaracao,3,Dr. Melo,aguardando manifestação da parte contrária,,True
+148,5451988-41.2020.2.82.4041,2026-04-26,audiencia_de_instrucao,1,Dr. Barros,Prazo fatal: 28 de maio de 2026,2026-01-06,False
+149,1664676-19.2021.8.64.4616,2026-04-24,memoriais,1,Dr. Barros,audiência marcada para 12 de maio de 2026,,False
+150,1614850-25.2020.8.85.3161,2025-11-08,peticao_inicial,4,Dra. Fontes,,,False
+151,4494463-44.2022.5.80.7542,2025-11-28,sentenca,4,Dra. Fontes,documentos pendentes de entrega pelo cliente,2026-07-19,False
+152,4865461-96.2025.2.64.9143,2025-04-16,memoriais,4,Dra. Fontes,prazo para recurso: 6 dias úteis a contar da intimação,,True
+153,4865461-96.2025.2.64.9143,2024-08-28,acordo_extrajudicial,4,Dra. Fontes,audiência marcada para 14 de junho de 2026,,True
+154,1714231-74.2025.9.71.1697,2024-05-22,memoriais,3,Dr. Melo,aguardando manifestação da parte contrária,,
+155,7765112-69.2024.9.62.5648,2026-01-14,laudo_pericial,2,Dra. Cavalcante,prazo para recurso: 17 dias úteis a contar da intimação,,True
+156,5996426-23.2022.8.20.3566,2026-04-01,citacao,4,Dra. Fontes,prazo para recurso: 22 dias úteis a contar da intimação,,False
+157,3710559-31.2020.9.95.2540,2025-10-26,sentenca,1,Dr. Barros,diligência externa necessária,,False
+158,8986773-71.2022.6.45.5854,2026-04-23,laudo_pericial,1,Dr. Barros,Prazo fatal: 30 de junho de 2026,2026-06-29,False
+159,7323234-16.2020.9.59.5035,2025-02-17,embargos_de_declaracao,2,Dra. Cavalcante,documentos pendentes de entrega pelo cliente,2026-03-28,False
+160,7323234-16.2020.9.59.5035,2025-12-29,laudo_pericial,2,Dra. Cavalcante,documentos pendentes de entrega pelo cliente,2026-07-16,
+161,4180949-86.2020.3.26.7593,2025-09-08,citacao,2,Dra. Cavalcante,juntada de documentos realizada,,False
+162,5901155-82.2023.2.89.7717,2026-02-23,despacho,2,Dra. Cavalcante,juntada de documentos realizada,,False
+163,3168718-77.2025.2.92.8027,2025-09-27,agravo_regimental,2,Dra. Cavalcante,diligência externa necessária,2026-01-20,True
+164,9992831-61.2022.4.35.1469,2025-12-20,peticao_inicial,1,Dr. Barros,juntada de documentos realizada,,True
+165,1098476-20.2021.1.47.3336,2026-01-24,replica,4,Dra. Fontes,,,
+166,8097721-13.2023.1.47.8354,2024-12-03,citacao,2,Dra. Cavalcante,Prazo fatal: 15/10/2026,2026-04-22,True
+167,4584224-94.2025.2.57.2511,2025-09-12,agravo_regimental,2,Dra. Cavalcante,audiência marcada para 30/12/2026,,
+168,6927716-18.2022.9.56.1445,2026-01-29,audiencia_de_instrucao,2,Dra. Cavalcante,Prazo fatal: 13/05/26,,False
+169,9398629-61.2022.5.88.8253,2025-11-15,audiencia_de_instrucao,1,Dr. Barros,diligência externa necessária,,False
+170,4584224-94.2025.2.57.2511,2026-05-01,laudo_pericial,4,Dra. Fontes,,2026-10-30,True
+171,3248366-98.2020.5.11.6279,2026-01-05,audiencia_de_instrucao,2,Dra. Cavalcante,aguardando manifestação da parte contrária,,True
+172,2966787-79.2022.1.41.9944,2025-07-30,citacao,4,Dra. Fontes,,2026-05-30,False
+173,2411026-52.2022.6.26.7373,2025-03-28,embargos_de_declaracao,3,Dr. Melo,documentos pendentes de entrega pelo cliente,,False
+174,1248003-72.2024.2.80.8472,2025-09-09,agravo_regimental,2,Dra. Cavalcante,audiência marcada para 27/05/2026,,
+175,1411065-96.2022.9.64.8271,2025-07-06,audiencia_de_instrucao,2,Dra. Cavalcante,aguardando manifestação da parte contrária,,True
+176,3248366-98.2020.5.11.6279,2026-01-16,contestacao,1,Dr. Barros,documentos pendentes de entrega pelo cliente,,False
+177,6416661-36.2021.8.21.8496,2026-03-04,laudo_pericial,4,Dra. Fontes,prazo para recurso: 14 dias úteis a contar da intimação,,False
+178,3260101-88.2022.8.37.9169,2026-02-10,acordo_extrajudicial,3,Dr. Melo,,,True
+179,2884639-86.2023.2.31.8737,2025-12-10,citacao,4,Dra. Fontes,prazo para recurso: 11 dias úteis a contar da intimação,,
+180,1757615-27.2025.7.10.3762,2026-03-09,recurso_de_apelacao,1,Dr. Barros,diligência externa necessária,2026-03-08,False
+181,3248366-98.2020.5.11.6279,2026-02-09,memoriais,1,Dr. Barros,documentos pendentes de entrega pelo cliente,,True
+182,5661974-14.2020.6.39.3137,2024-11-07,habilitacao,4,Dra. Fontes,prazo para recurso: 13 dias úteis a contar da intimação,,False
+183,9398629-61.2022.5.88.8253,2026-02-08,embargos_de_declaracao,1,Dr. Barros,audiência marcada para 05/08/2026,,False
+184,9898363-27.2020.4.89.2966,2026-02-11,habilitacao,2,Dra. Cavalcante,,,False
+185,5284129-51.2020.3.32.5205,2026-03-06,audiencia_de_instrucao,3,Dr. Melo,diligência externa necessária,,True
+186,7398699-88.2025.6.55.3587,2026-04-16,recurso_de_apelacao,1,Dr. Barros,,,False
+187,1099617-37.2023.9.61.1793,2024-07-23,sentenca,1,Dr. Barros,documentos pendentes de entrega pelo cliente,,True
+188,5284129-51.2020.3.32.5205,2025-11-07,audiencia_de_instrucao,2,Dra. Cavalcante,aguardando manifestação da parte contrária,,False
+189,1754781-28.2025.6.89.2162,2026-01-13,replica,1,Dr. Barros,Prazo fatal: 10/08/26,2026-03-13,True
+190,1896520-28.2021.5.90.5374,2024-06-20,peticao_inicial,2,Dra. Cavalcante,audiência marcada para 2026-03-07,,False
+191,9071705-28.2021.9.78.4746,2025-08-16,recurso_de_apelacao,2,Dra. Cavalcante,,,False
+192,5514997-95.2024.1.84.8098,2026-03-02,habilitacao,2,Dra. Cavalcante,aguardando manifestação da parte contrária,,True
+193,9071705-28.2021.9.78.4746,2025-10-27,intimacao,2,Dra. Cavalcante,audiência marcada para 12/03/2026,,True
+194,6101036-60.2022.7.49.3295,2026-02-13,embargos_de_declaracao,2,Dra. Cavalcante,documentos pendentes de entrega pelo cliente,,True
+195,5614769-67.2022.9.87.1001,2026-02-01,acordo_extrajudicial,4,Dra. Fontes,diligência externa necessária,2026-10-22,
+196,5266269-78.2021.7.59.1392,2026-01-02,recurso_de_apelacao,2,Dra. Cavalcante,,,False
+197,5239450-56.2022.7.99.2371,2026-04-17,replica,2,Dra. Cavalcante,,,
+198,4961530-22.2021.4.22.6290,2025-09-12,agravo_regimental,4,Dra. Fontes,diligência externa necessária,2026-03-18,True
+199,2753004-76.2021.8.83.9874,2026-04-20,peticao_inicial,2,Dra. Cavalcante,documentos pendentes de entrega pelo cliente,,False
+200,4961530-22.2021.4.22.6290,2026-03-15,peticao_inicial,2,Dra. Cavalcante,diligência externa necessária,,
+201,5733649-38.2020.2.35.3379,2026-03-08,recurso_de_apelacao,3,Dr. Melo,aguardando manifestação da parte contrária,,True
+202,7398699-88.2025.6.55.3587,2026-02-27,contestacao,1,Dr. Barros,diligência externa necessária,2026-01-15,
+203,6414076-16.2021.7.78.8273,2025-09-10,embargos_de_declaracao,3,Dr. Melo,,,False
+204,4131852-60.2020.1.89.9739,2025-11-24,replica,2,Dra. Cavalcante,diligência externa necessária,,
+205,6663627-76.2023.9.26.5770,2025-06-25,intimacao,3,Dr. Melo,Prazo fatal: 22/11/2026,,
+206,1896520-28.2021.5.90.5374,2024-05-03,memoriais,2,Dra. Cavalcante,audiência marcada para 27/09/26,,True
+207,9804642-71.2024.4.76.5486,2026-01-04,laudo_pericial,2,Dra. Cavalcante,Prazo fatal: 20/05/26,,False
+208,1013314-48.2023.4.39.2083,2026-01-15,contestacao,2,Dra. Cavalcante,Prazo fatal: 28/04/26,,True
+209,3505690-87.2020.8.52.6260,2025-10-22,citacao,4,Dra. Fontes,audiência marcada para 13/06/2026,,False
+210,7236875-79.2024.7.97.5566,2025-10-11,recurso_de_apelacao,1,Dr. Barros,diligência externa necessária,2026-11-01,False
+211,2554938-48.2024.1.13.4544,2025-07-12,despacho,4,Dra. Fontes,Prazo fatal: 10/03/2026,,True
+212,4085001-92.2022.6.76.8938,2026-04-03,embargos_de_declaracao,4,Dra. Fontes,audiência marcada para 21 de agosto de 2026,,True
+213,7765112-69.2024.9.62.5648,2026-02-10,audiencia_de_instrucao,4,Dra. Fontes,Prazo fatal: 08/10/2026,2026-06-20,True
+214,6992158-64.2024.5.43.7750,2025-12-11,audiencia_de_instrucao,1,Dr. Barros,,,False
+215,7789809-22.2020.1.73.9031,2025-10-08,despacho,4,Dra. Fontes,aguardando manifestação da parte contrária,2026-08-30,True
+216,4865461-96.2025.2.64.9143,2025-09-19,memoriais,3,Dr. Melo,juntada de documentos realizada,,True
+217,9774395-92.2023.2.75.3192,2026-03-09,contestacao,4,Dra. Fontes,,2026-09-19,
+218,4326518-76.2023.4.36.8530,2026-03-20,habilitacao,2,Dra. Cavalcante,documentos pendentes de entrega pelo cliente,,True
+219,2236315-26.2022.5.82.8939,2025-05-08,despacho,4,Dra. Fontes,prazo para recurso: 18 dias úteis a contar da intimação,,False
+220,1714231-74.2025.9.71.1697,2024-06-07,laudo_pericial,1,Dr. Barros,prazo para recurso: 15 dias úteis a contar da intimação,,
+221,9060164-41.2020.5.36.2381,2025-12-30,contestacao,4,Dra. Fontes,,2026-03-26,True
+222,6663627-76.2023.9.26.5770,2024-10-08,memoriais,4,Dra. Fontes,juntada de documentos realizada,,True
+223,6404948-40.2021.7.68.7161,2026-02-05,memoriais,2,Dra. Cavalcante,documentos pendentes de entrega pelo cliente,2026-06-02,False
+224,4384627-80.2021.2.13.1061,2026-04-27,contestacao,1,Dr. Barros,,2026-06-27,False
+225,5451988-41.2020.2.82.4041,2025-10-17,habilitacao,1,Dr. Barros,aguardando manifestação da parte contrária,,True
+226,3750497-13.2024.6.65.9009,2025-05-03,citacao,3,Dr. Melo,documentos pendentes de entrega pelo cliente,,False
+227,2231929-89.2024.6.41.5461,2025-09-22,laudo_pericial,4,Dra. Fontes,aguardando manifestação da parte contrária,2026-08-26,True
+228,4452862-76.2021.3.27.3238,2026-01-24,laudo_pericial,2,Dra. Cavalcante,juntada de documentos realizada,,False
+229,4865461-96.2025.2.64.9143,2025-03-19,despacho,3,Dr. Melo,Prazo fatal: 13/07/2026,2026-08-05,
+230,1784068-27.2021.3.12.2538,2026-04-16,replica,2,Dra. Cavalcante,juntada de documentos realizada,2026-11-21,False
+231,4494463-44.2022.5.80.7542,2025-06-19,acordo_extrajudicial,1,Dr. Barros,juntada de documentos realizada,,
+232,8368255-39.2020.9.60.4414,2025-09-02,peticao_inicial,4,Dra. Fontes,audiência marcada para 27 de agosto de 2026,,False
+233,9774395-92.2023.2.75.3192,2026-01-19,laudo_pericial,4,Dra. Fontes,,,True
+234,7236875-79.2024.7.97.5566,2025-03-21,despacho,2,Dra. Cavalcante,aguardando manifestação da parte contrária,,True
+235,4131852-60.2020.1.89.9739,2025-12-05,replica,1,Dr. Barros,documentos pendentes de entrega pelo cliente,2026-10-25,False
+236,2328070-99.2024.8.57.5561,2025-10-24,peticao_inicial,2,Dra. Cavalcante,documentos pendentes de entrega pelo cliente,2026-11-27,True
+237,8368372-34.2020.6.43.9691,2026-02-27,recurso_de_apelacao,4,Dra. Fontes,diligência externa necessária,,
+238,7323234-16.2020.9.59.5035,2025-08-12,laudo_pericial,1,Dr. Barros,documentos pendentes de entrega pelo cliente,,
+239,1614850-25.2020.8.85.3161,2025-12-05,contestacao,3,Dr. Melo,documentos pendentes de entrega pelo cliente,,False
+240,1614850-25.2020.8.85.3161,2025-09-16,habilitacao,2,Dra. Cavalcante,documentos pendentes de entrega pelo cliente,,True
+241,8905709-90.2020.9.55.2471,2025-06-21,contestacao,4,Dra. Fontes,,,False
+242,8905709-90.2020.9.55.2471,2025-07-16,audiencia_de_instrucao,2,Dra. Cavalcante,prazo para recurso: 14 dias úteis a contar da intimação,,False
+243,9071705-28.2021.9.78.4746,2024-06-09,contestacao,2,Dra. Cavalcante,diligência externa necessária,,False
+244,6865513-17.2021.7.21.3938,2026-02-27,agravo_regimental,1,Dr. Barros,audiência marcada para 16 de julho de 2026,,True
+245,2966787-79.2022.1.41.9944,2026-02-09,habilitacao,4,Dra. Fontes,juntada de documentos realizada,2026-09-25,True
+246,9071705-28.2021.9.78.4746,2024-10-01,memoriais,1,Dr. Barros,prazo para recurso: 11 dias úteis a contar da intimação,,
+247,6414076-16.2021.7.78.8273,2025-11-19,citacao,4,Dra. Fontes,Prazo fatal: 09/06/2026,,False
+248,2554938-48.2024.1.13.4544,2025-12-26,sentenca,1,Dr. Barros,audiência marcada para 05/11/2026,,False
+249,1833330-93.2025.8.61.3405,2026-02-07,audiencia_de_instrucao,4,Dra. Fontes,,,False
+250,5661974-14.2020.6.39.3137,2025-11-19,agravo_regimental,1,Dr. Barros,,,False
+251,9057219-99.2020.9.96.3254,2026-03-23,recurso_de_apelacao,2,Dra. Cavalcante,audiência marcada para 21 de março de 2026,,True
+252,2545435-52.2025.3.59.7623,2026-01-12,intimacao,3,Dr. Melo,Prazo fatal: 11/06/2026,,
+253,1353022-94.2023.9.79.1203,2026-04-21,sentenca,3,Dr. Melo,diligência externa necessária,,True
+254,2966787-79.2022.1.41.9944,2026-02-11,despacho,4,Dra. Fontes,audiência marcada para 14/09/26,2026-01-21,False
+255,7438163-48.2021.3.47.1186,2025-11-01,agravo_regimental,2,Dra. Cavalcante,documentos pendentes de entrega pelo cliente,,True
+256,8905709-90.2020.9.55.2471,2025-04-01,memoriais,3,Dr. Melo,juntada de documentos realizada,,True
+257,2411026-52.2022.6.26.7373,2025-04-19,contestacao,3,Dr. Melo,documentos pendentes de entrega pelo cliente,,
+258,7544569-30.2022.4.91.9370,2025-12-31,citacao,2,Dra. Cavalcante,diligência externa necessária,2026-02-12,
+259,3750497-13.2024.6.65.9009,2026-03-27,laudo_pericial,1,Dr. Barros,,2026-02-03,True
+260,4865461-96.2025.2.64.9143,2024-11-19,recurso_de_apelacao,3,Dr. Melo,Prazo fatal: 15/01/2026,2026-08-13,
+261,7236875-79.2024.7.97.5566,2026-04-14,memoriais,1,Dr. Barros,,,False
+262,1667591-67.2025.4.69.9424,2025-11-29,embargos_de_declaracao,1,Dr. Barros,,,False
+263,8097721-13.2023.1.47.8354,2024-10-28,laudo_pericial,3,Dr. Melo,,2026-12-10,True
+264,8415891-60.2021.6.92.5554,2025-10-10,agravo_regimental,2,Dra. Cavalcante,audiência marcada para 22 de novembro de 2026,2026-04-28,True
+265,8905709-90.2020.9.55.2471,2025-02-03,embargos_de_declaracao,1,Dr. Barros,diligência externa necessária,,
+266,5661974-14.2020.6.39.3137,2026-01-09,embargos_de_declaracao,2,Dra. Cavalcante,,,False
+267,7789809-22.2020.1.73.9031,2025-06-25,recurso_de_apelacao,3,Dr. Melo,juntada de documentos realizada,,
+268,5788467-41.2023.8.93.8134,2026-04-18,agravo_regimental,2,Dra. Cavalcante,,2026-05-16,True
+269,1757615-27.2025.7.10.3762,2026-04-05,recurso_de_apelacao,3,Dr. Melo,audiência marcada para 26 de novembro de 2026,,True
+270,5068524-45.2025.9.91.6906,2023-10-25,sentenca,2,Dra. Cavalcante,diligência externa necessária,2026-11-27,False
+271,4452862-76.2021.3.27.3238,2026-02-07,despacho,3,Dr. Melo,prazo para recurso: 20 dias úteis a contar da intimação,,False
+272,3667022-35.2020.9.76.3115,2026-03-17,sentenca,4,Dra. Fontes,audiência marcada para 23/09/26,2026-06-12,False
+273,8097721-13.2023.1.47.8354,2025-08-29,sentenca,3,Dr. Melo,prazo para recurso: 20 dias úteis a contar da intimação,,False
+274,5901155-82.2023.2.89.7717,2025-07-02,agravo_regimental,2,Dra. Cavalcante,Prazo fatal: 15/09/2026,,True
+275,1248003-72.2024.2.80.8472,2025-12-16,acordo_extrajudicial,2,Dra. Cavalcante,prazo para recurso: 25 dias úteis a contar da intimação,,False
+276,9686751-57.2022.7.62.3494,2026-02-18,laudo_pericial,1,Dr. Barros,Prazo fatal: 2026-09-11,,True
+277,4824419-32.2024.5.47.3265,2025-06-12,sentenca,3,Dr. Melo,documentos pendentes de entrega pelo cliente,,True
+278,1964519-55.2020.7.58.6781,2026-02-14,citacao,4,Dra. Fontes,diligência externa necessária,2026-04-04,True
+279,5996426-23.2022.8.20.3566,2025-11-10,laudo_pericial,3,Dr. Melo,documentos pendentes de entrega pelo cliente,2026-04-26,
+280,5661974-14.2020.6.39.3137,2025-01-04,memoriais,4,Dra. Fontes,audiência marcada para 2026-12-25,2026-03-10,
+281,4510407-23.2020.5.18.6055,2025-12-04,laudo_pericial,3,Dr. Melo,,,
+282,7765112-69.2024.9.62.5648,2025-09-19,peticao_inicial,4,Dra. Fontes,juntada de documentos realizada,2026-10-08,
+283,1248003-72.2024.2.80.8472,2025-05-12,memoriais,3,Dr. Melo,aguardando manifestação da parte contrária,,True
+284,7544569-30.2022.4.91.9370,2025-08-21,laudo_pericial,4,Dra. Fontes,aguardando manifestação da parte contrária,,False
+285,1896520-28.2021.5.90.5374,2024-03-26,citacao,2,Dra. Cavalcante,juntada de documentos realizada,2026-06-26,False
+286,4494463-44.2022.5.80.7542,2026-03-04,citacao,2,Dra. Cavalcante,,,
+287,5284129-51.2020.3.32.5205,2025-05-18,memoriais,2,Dra. Cavalcante,aguardando manifestação da parte contrária,,False
+288,3263740-44.2022.3.81.5402,2026-02-10,laudo_pericial,4,Dra. Fontes,juntada de documentos realizada,2026-08-31,True
+289,9214397-26.2023.4.18.6844,2026-03-30,citacao,1,Dr. Barros,diligência externa necessária,,True
+290,3248366-98.2020.5.11.6279,2026-02-23,recurso_de_apelacao,2,Dra. Cavalcante,Prazo fatal: 27/05/26,,False
+291,5401874-62.2025.2.46.8337,2026-02-10,sentenca,2,Dra. Cavalcante,prazo para recurso: 24 dias úteis a contar da intimação,2026-02-26,False
+292,8286382-50.2025.4.53.4414,2025-08-09,memoriais,1,Dr. Barros,juntada de documentos realizada,2026-11-21,
+293,8368372-34.2020.6.43.9691,2026-01-21,sentenca,4,Dra. Fontes,diligência externa necessária,,True
+294,9992831-61.2022.4.35.1469,2025-07-21,recurso_de_apelacao,2,Dra. Cavalcante,audiência marcada para 29 de junho de 2026,2026-10-08,False
+295,8905709-90.2020.9.55.2471,2025-09-21,audiencia_de_instrucao,3,Dr. Melo,audiência marcada para 2026-08-28,,
+296,4865461-96.2025.2.64.9143,2025-05-02,contestacao,1,Dr. Barros,prazo para recurso: 30 dias úteis a contar da intimação,2026-03-12,True
+297,1013314-48.2023.4.39.2083,2026-03-17,replica,3,Dr. Melo,audiência marcada para 13 de agosto de 2026,,
+298,2554938-48.2024.1.13.4544,2026-03-27,laudo_pericial,3,Dr. Melo,diligência externa necessária,2026-02-20,False
+299,1165147-13.2020.2.47.5874,2026-03-16,agravo_regimental,1,Dr. Barros,prazo para recurso: 6 dias úteis a contar da intimação,,
+300,6663627-76.2023.9.26.5770,2025-06-11,peticao_inicial,3,Dr. Melo,,,True
+301,3710559-31.2020.9.95.2540,2025-11-30,contestacao,3,Dr. Melo,juntada de documentos realizada,2026-02-05,True
+302,3395583-64.2024.4.41.2181,2025-05-30,recurso_de_apelacao,4,Dra. Fontes,juntada de documentos realizada,,True
+303,5068524-45.2025.9.91.6906,2025-02-24,audiencia_de_instrucao,4,Dra. Fontes,prazo para recurso: 7 dias úteis a contar da intimação,2026-09-14,True
+304,3505690-87.2020.8.52.6260,2026-03-07,sentenca,3,Dr. Melo,aguardando manifestação da parte contrária,2026-01-25,True
+305,5755257-93.2020.8.44.2882,2025-11-12,laudo_pericial,4,Dra. Fontes,aguardando manifestação da parte contrária,,True
+306,4415624-13.2024.9.14.9480,2026-03-08,contestacao,4,Dra. Fontes,audiência marcada para 2026-03-11,,
+307,7687351-51.2022.6.73.6768,2025-11-30,sentenca,1,Dr. Barros,Prazo fatal: 4 de outubro de 2026,,False
+308,1676369-34.2022.3.47.6087,2025-12-02,contestacao,2,Dra. Cavalcante,documentos pendentes de entrega pelo cliente,,False
+309,2824928-33.2020.1.90.6467,2026-01-18,laudo_pericial,3,Dr. Melo,,2026-06-09,True
+310,5661974-14.2020.6.39.3137,2025-09-13,acordo_extrajudicial,2,Dra. Cavalcante,audiência marcada para 2026-11-06,,True
+311,1185885-59.2023.7.19.8433,2026-02-02,despacho,1,Dr. Barros,juntada de documentos realizada,,False
+312,1714231-74.2025.9.71.1697,2024-04-28,laudo_pericial,3,Dr. Melo,juntada de documentos realizada,2026-03-06,True
+313,7789809-22.2020.1.73.9031,2025-06-11,habilitacao,3,Dr. Melo,audiência marcada para 2026-05-31,,
+314,1778149-24.2023.1.86.3557,2026-03-18,intimacao,2,Dra. Cavalcante,juntada de documentos realizada,,True
+315,5786762-52.2021.9.21.3037,2025-02-08,audiencia_de_instrucao,3,Dr. Melo,prazo para recurso: 17 dias úteis a contar da intimação,,False
+316,1931030-34.2024.8.48.5319,2025-10-23,habilitacao,3,Dr. Melo,,,
+317,4865461-96.2025.2.64.9143,2025-06-25,acordo_extrajudicial,3,Dr. Melo,,,False
+318,2328070-99.2024.8.57.5561,2025-10-01,audiencia_de_instrucao,2,Dra. Cavalcante,diligência externa necessária,2026-09-12,
+319,5901155-82.2023.2.89.7717,2025-12-05,memoriais,1,Dr. Barros,aguardando manifestação da parte contrária,2026-09-21,True
+320,3168718-77.2025.2.92.8027,2026-02-23,despacho,1,Dr. Barros,aguardando manifestação da parte contrária,,True
+321,2554938-48.2024.1.13.4544,2025-12-18,sentenca,1,Dr. Barros,Prazo fatal: 2026-08-29,,False
+322,4131852-60.2020.1.89.9739,2026-04-03,peticao_inicial,4,Dra. Fontes,Prazo fatal: 2026-06-08,,False
+323,3346094-93.2020.2.94.1759,2026-04-26,habilitacao,3,Dr. Melo,juntada de documentos realizada,,False
+324,4510407-23.2020.5.18.6055,2026-02-25,intimacao,1,Dr. Barros,audiência marcada para 2026-12-05,2026-08-21,False
+325,7274275-74.2020.1.22.9780,2026-03-16,replica,4,Dra. Fontes,documentos pendentes de entrega pelo cliente,,True
+326,9804642-71.2024.4.76.5486,2025-11-29,replica,4,Dra. Fontes,aguardando manifestação da parte contrária,2026-09-21,True
+327,1099617-37.2023.9.61.1793,2025-10-05,audiencia_de_instrucao,1,Dr. Barros,diligência externa necessária,,True
+328,4961530-22.2021.4.22.6290,2025-10-11,intimacao,3,Dr. Melo,audiência marcada para 05/03/2026,,True
+329,8368255-39.2020.9.60.4414,2025-08-31,memoriais,3,Dr. Melo,documentos pendentes de entrega pelo cliente,,True
+330,1614850-25.2020.8.85.3161,2026-01-24,recurso_de_apelacao,2,Dra. Cavalcante,aguardando manifestação da parte contrária,,False
+331,1272937-41.2023.5.75.9958,2026-01-11,recurso_de_apelacao,1,Dr. Barros,Prazo fatal: 17/05/2026,,False
+332,5661974-14.2020.6.39.3137,2026-03-08,contestacao,1,Dr. Barros,aguardando manifestação da parte contrária,,
+333,5755257-93.2020.8.44.2882,2025-09-22,acordo_extrajudicial,1,Dr. Barros,juntada de documentos realizada,,False
+334,3395583-64.2024.4.41.2181,2025-04-18,acordo_extrajudicial,1,Dr. Barros,Prazo fatal: 03/07/26,,False
+335,7553290-31.2023.9.36.9282,2025-09-28,sentenca,4,Dra. Fontes,aguardando manifestação da parte contrária,,
+336,5058333-37.2021.3.98.8848,2025-08-04,embargos_de_declaracao,4,Dra. Fontes,,,False
+337,5058333-37.2021.3.98.8848,2025-09-21,replica,2,Dra. Cavalcante,prazo para recurso: 23 dias úteis a contar da intimação,,True
+338,2554938-48.2024.1.13.4544,2026-04-22,replica,4,Dra. Fontes,aguardando manifestação da parte contrária,2026-04-28,True
+339,1784068-27.2021.3.12.2538,2026-03-11,intimacao,2,Dra. Cavalcante,diligência externa necessária,,True
+340,8717678-27.2025.5.11.4526,2026-05-01,contestacao,1,Dr. Barros,aguardando manifestação da parte contrária,,
+341,4415624-13.2024.9.14.9480,2026-01-11,contestacao,2,Dra. Cavalcante,Prazo fatal: 09/06/2026,,
+342,7749444-78.2021.1.20.8763,2025-11-21,embargos_de_declaracao,1,Dr. Barros,juntada de documentos realizada,,False
+343,8717678-27.2025.5.11.4526,2025-10-04,acordo_extrajudicial,3,Dr. Melo,,2026-02-10,
+344,8323566-47.2021.3.26.4644,2026-01-28,contestacao,3,Dr. Melo,juntada de documentos realizada,,True
+345,7323234-16.2020.9.59.5035,2025-06-10,habilitacao,1,Dr. Barros,prazo para recurso: 30 dias úteis a contar da intimação,,False
+346,8066975-72.2023.7.26.7675,2025-11-06,laudo_pericial,3,Dr. Melo,prazo para recurso: 7 dias úteis a contar da intimação,,True
+347,5266269-78.2021.7.59.1392,2026-02-14,sentenca,3,Dr. Melo,aguardando manifestação da parte contrária,,False
+348,8097721-13.2023.1.47.8354,2025-01-13,memoriais,2,Dra. Cavalcante,aguardando manifestação da parte contrária,,False
+349,2328070-99.2024.8.57.5561,2026-04-04,acordo_extrajudicial,4,Dra. Fontes,audiência marcada para 24/10/26,,True
+350,4952151-27.2023.3.38.8762,2026-02-20,agravo_regimental,4,Dra. Fontes,juntada de documentos realizada,,True
+351,8168054-14.2024.6.50.1232,2026-04-17,peticao_inicial,4,Dra. Fontes,Prazo fatal: 2026-08-10,,True
+352,4601686-30.2021.5.52.7745,2026-03-26,habilitacao,1,Dr. Barros,diligência externa necessária,,False
+353,1248003-72.2024.2.80.8472,2025-04-26,acordo_extrajudicial,1,Dr. Barros,prazo para recurso: 15 dias úteis a contar da intimação,,False
+354,5733649-38.2020.2.35.3379,2025-08-30,habilitacao,2,Dra. Cavalcante,diligência externa necessária,,True
+355,8097721-13.2023.1.47.8354,2024-12-07,sentenca,4,Dra. Fontes,aguardando manifestação da parte contrária,,False
+356,4494463-44.2022.5.80.7542,2025-05-10,audiencia_de_instrucao,4,Dra. Fontes,aguardando manifestação da parte contrária,,True
+357,1557680-16.2021.4.16.4031,2026-03-13,intimacao,4,Dra. Fontes,Prazo fatal: 2026-08-22,2026-12-15,True
+358,5755257-93.2020.8.44.2882,2025-11-01,laudo_pericial,1,Dr. Barros,documentos pendentes de entrega pelo cliente,,True
+359,5068524-45.2025.9.91.6906,2025-04-30,contestacao,2,Dra. Cavalcante,prazo para recurso: 21 dias úteis a contar da intimação,,True
+360,8097721-13.2023.1.47.8354,2025-01-21,despacho,4,Dra. Fontes,documentos pendentes de entrega pelo cliente,2026-08-30,True
+361,1757615-27.2025.7.10.3762,2026-01-26,sentenca,3,Dr. Melo,aguardando manifestação da parte contrária,2026-08-19,True
+362,6105303-92.2021.4.39.3868,2026-04-04,acordo_extrajudicial,3,Dr. Melo,prazo para recurso: 10 dias úteis a contar da intimação,,False
+363,5451988-41.2020.2.82.4041,2025-09-20,sentenca,2,Dra. Cavalcante,Prazo fatal: 01/10/26,,True
+364,5068524-45.2025.9.91.6906,2024-03-28,laudo_pericial,3,Dr. Melo,,,True
+365,7245951-43.2021.4.11.7623,2026-04-07,agravo_regimental,3,Dr. Melo,aguardando manifestação da parte contrária,,True
+366,5068524-45.2025.9.91.6906,2025-10-23,habilitacao,1,Dr. Barros,audiência marcada para 2026-12-26,2026-10-30,False
+367,6414076-16.2021.7.78.8273,2026-03-17,sentenca,4,Dra. Fontes,,2026-12-21,True
+368,6663627-76.2023.9.26.5770,2025-01-09,despacho,3,Dr. Melo,,,False
+369,5661974-14.2020.6.39.3137,2026-01-29,intimacao,2,Dra. Cavalcante,diligência externa necessária,2026-04-07,True
+370,8286382-50.2025.4.53.4414,2025-05-28,replica,3,Dr. Melo,diligência externa necessária,,False
+371,1964519-55.2020.7.58.6781,2026-04-26,sentenca,3,Dr. Melo,audiência marcada para 22/10/2026,,True
+372,8588997-88.2020.6.29.5987,2025-03-21,intimacao,1,Dr. Barros,diligência externa necessária,2026-02-21,True
+373,3418432-84.2025.3.59.5858,2026-04-18,despacho,1,Dr. Barros,prazo para recurso: 5 dias úteis a contar da intimação,,False
+374,1099617-37.2023.9.61.1793,2024-09-18,habilitacao,1,Dr. Barros,aguardando manifestação da parte contrária,2026-01-21,False
+375,5068524-45.2025.9.91.6906,2024-06-14,memoriais,1,Dr. Barros,audiência marcada para 2026-05-26,,False
+376,7789809-22.2020.1.73.9031,2026-04-17,agravo_regimental,1,Dr. Barros,,2026-11-10,
+377,6034606-21.2023.6.18.6684,2026-02-20,habilitacao,1,Dr. Barros,juntada de documentos realizada,,False
+378,7323234-16.2020.9.59.5035,2025-12-05,sentenca,2,Dra. Cavalcante,audiência marcada para 2026-05-17,,True
+379,5953905-94.2022.5.44.3245,2025-12-31,memoriais,1,Dr. Barros,Prazo fatal: 29/01/26,,True
+380,8286382-50.2025.4.53.4414,2025-12-25,memoriais,4,Dra. Fontes,,2026-10-24,False
+381,9071705-28.2021.9.78.4746,2026-01-28,memoriais,1,Dr. Barros,diligência externa necessária,,
+382,1621418-87.2020.9.55.9337,2026-03-31,replica,4,Dra. Fontes,prazo para recurso: 16 dias úteis a contar da intimação,,False
+383,5661974-14.2020.6.39.3137,2025-09-30,laudo_pericial,3,Dr. Melo,prazo para recurso: 22 dias úteis a contar da intimação,,True
+384,4961530-22.2021.4.22.6290,2025-12-31,embargos_de_declaracao,1,Dr. Barros,Prazo fatal: 29/12/26,,False
+385,1013314-48.2023.4.39.2083,2026-01-28,intimacao,1,Dr. Barros,juntada de documentos realizada,,False
+386,6038940-61.2024.4.64.6408,2025-09-16,habilitacao,1,Dr. Barros,audiência marcada para 24/09/2026,,False
+387,5068524-45.2025.9.91.6906,2024-01-28,sentenca,1,Dr. Barros,diligência externa necessária,,
+388,7115217-41.2025.1.67.7692,2026-04-08,memoriais,2,Dra. Cavalcante,documentos pendentes de entrega pelo cliente,2026-10-09,False
+389,3395583-64.2024.4.41.2181,2024-12-29,replica,4,Dra. Fontes,documentos pendentes de entrega pelo cliente,2026-10-04,
+390,5284129-51.2020.3.32.5205,2025-10-04,habilitacao,1,Dr. Barros,audiência marcada para 27/06/2026,,False
+391,1099617-37.2023.9.61.1793,2025-07-15,despacho,1,Dr. Barros,juntada de documentos realizada,,True
+392,5901155-82.2023.2.89.7717,2024-09-13,sentenca,3,Dr. Melo,juntada de documentos realizada,,True

@@ -1,0 +1,91 @@
+services:
+
+  db:
+    image: pgvector/pgvector:pg15
+    container_name: pta_dados_db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: pta_dados
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./fase1_engenharia/docs/init.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d pta_dados"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  init:
+    build: .
+    depends_on:
+      db:
+        condition: service_healthy
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://postgres:postgres@db:5432/pta_dados
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - huggingface_cache:/root/.cache/huggingface
+    command: >
+      sh -c "
+        python -m fase1_engenharia.db.seed &&
+        (cd /app/fase1_engenharia && python pipeline_extracao.py) &&
+        python -m fase1_engenharia.indexacao.indexar_documentos
+      "
+    restart: "no"
+
+  api:
+    build: .
+    depends_on:
+      init:
+        condition: service_completed_successfully
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://postgres:postgres@db:5432/pta_dados
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./fase3_interface/.dados:/app/fase3_interface/.dados
+      - huggingface_cache:/root/.cache/huggingface
+    command: uvicorn fase1_engenharia.api.main:app --host 0.0.0.0 --port 8000
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  interface:
+    build: .
+    depends_on:
+      api:
+        condition: service_healthy
+    env_file: .env
+    environment:
+      API_BASE_URL: http://api:8000
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./fase3_interface/.dados:/app/fase3_interface/.dados
+    command: streamlit run fase3_interface/app.py --server.port 8501 --server.address 0.0.0.0
+
+  scheduler:
+    build: .
+    depends_on:
+      init:
+        condition: service_completed_successfully
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql://postgres:postgres@db:5432/pta_dados
+    volumes:
+      - ./logs:/app/logs
+    command: python -m fase2_agente.automacoes.scheduler
+
+volumes:
+  postgres_data:
+  huggingface_cache:

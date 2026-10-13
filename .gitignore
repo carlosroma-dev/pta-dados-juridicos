@@ -1,0 +1,31 @@
+# Ambiente
+.venv/
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Dados
+data/pdfs/*              
+data/raw/*               
+data/clean/*             
+!data/pdfs/.gitkeep      
+!data/raw/.gitkeep       
+!data/clean/.gitkeep     
+
+# Histórico de conversas do agente (dados de uso, gerados em runtime)
+fase3_interface/.dados/
+
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credenciais Google Drive
+service_account.json
+drive_state.json
+

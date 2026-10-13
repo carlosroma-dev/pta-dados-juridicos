@@ -1,0 +1,220 @@
+﻿processo_id,numero_processo,cliente_id,tipo,fase,status,advogado_responsavel,data_abertura,prazo_proximo,valor_causa,vara,observacoes
+1,3248366-98.2020.5.11.6279,25,civel,sentenca,acordo,Dra. Cavalcante,2025-12-25,2026-10-10,481388.0,14ª Vara Trabalhista De Recife,em negociação
+2,7398699-88.2025.6.55.3587,99,trabalhista,acordo_extrajudicial,acordo,Dra. Cavalcante,2026-02-01,2026-09-21,252880.5,20ª Vara Trabalhista De Recife,aguardando documentos
+3,7243958-65.2020.5.25.5047,2,trabalhista,arquivado,ativo,Dr. Barros,2026-01-26,2026-11-20,252880.5,18ª Vara Cível De Recife,
+4,8097721-13.2023.1.47.8354,183,trabalhista,sentenca,ativo,Dra. Cavalcante,2024-10-18,2025-07-08,120515.0,5ª Vara Trabalhista De Recife,
+5,8129073-22.2024.4.16.9656,42,trabalhista,audiencia,encerrado,Dra. Fontes,2026-04-10,,252880.5,18ª Vara Trabalhista De Recife,aguardando documentos
+6,9060164-41.2020.5.36.2381,120,civel,inicial,encerrado,Dra. Fontes,2025-09-11,2025-10-25,346020.0,10ª Vara Cível De Recife,em negociação
+7,3585301-47.2021.7.73.3469,29,civel,instrucao,encerrado,Dr. Barros,2025-07-10,2026-12-03,54656.0,6ª Vara Criminal De Recife,urgente
+8,6663627-76.2023.9.26.5770,49,trabalhista,recurso,encerrado,Dr. Barros,2024-07-20,2025-05-05,192699.0,7ª Vara Criminal De Recife,em negociação
+9,7862554-22.2024.7.83.6459,193,trabalhista,instrucao,acordo,Dr. Barros,2025-04-15,2026-07-04,70206.0,5ª Vara Trabalhista De Recife,
+10,5472823-70.2022.4.41.7624,106,civel,arquivado,encerrado,Dr. Melo,2025-12-05,2026-02-28,83249.0,18ª Vara Criminal De Recife,
+11,1411065-96.2022.9.64.8271,69,trabalhista,execucao,encerrado,Dra. Cavalcante,2025-06-21,2026-02-07,117195.0,8ª Vara Cível De Recife,aguardando documentos
+12,4085001-92.2022.6.76.8938,30,trabalhista,sentenca,encerrado,Dra. Fontes,2026-01-27,2026-02-03,252880.5,15ª Vara Trabalhista De Recife,
+13,6476769-27.2021.5.22.2570,62,trabalhista,inicial,ativo,Dr. Melo,2026-05-01,2026-05-14,73518.0,2ª Vara Cível De Recife,aguardando documentos
+14,7724543-49.2023.9.44.7412,151,trabalhista,sentenca,suspenso,Dra. Fontes,2025-11-16,,379622.0,18ª Vara Cível De Recife,cliente não responde
+15,9953454-93.2020.2.52.5723,141,trabalhista,instrucao,ativo,Dra. Cavalcante,2026-04-17,2026-05-19,164552.0,20ª Vara Trabalhista De Recife,em negociação
+16,1099617-37.2023.9.61.1793,182,trabalhista,audiencia,acordo,Dr. Barros,2024-03-12,2025-08-23,18900.0,12ª Vara Cível De Recife,
+17,7115217-41.2025.1.67.7692,3,civel,inicial,encerrado,Dra. Fontes,2026-03-04,2026-07-12,41361.0,20ª Vara Criminal De Recife,urgente
+18,1248003-72.2024.2.80.8472,77,trabalhista,recurso,suspenso,Dr. Melo,2025-02-14,2025-07-29,407401.0,14ª Vara Criminal De Recife,urgente
+19,2658962-39.2022.5.95.8856,162,civel,acordo_extrajudicial,encerrado,Dra. Fontes,2026-02-23,2026-12-27,252880.5,11ª Vara Criminal De Recife,
+20,4584224-94.2025.2.57.2511,142,trabalhista,sentenca,acordo,Dra. Fontes,2025-06-22,2025-07-16,436740.0,8ª Vara Trabalhista De Recife,aguardando documentos
+21,5274951-77.2021.1.76.5120,40,trabalhista,acordo_extrajudicial,encerrado,Dr. Melo,2026-02-08,2026-07-25,252880.5,3ª Vara Trabalhista De Recife,cliente não responde
+22,6096719-87.2023.1.41.6180,61,civel,audiencia,em_recurso,Dra. Cavalcante,2025-05-21,2026-03-12,252880.5,2ª Vara Cível De Recife,
+23,5853247-29.2020.7.62.8870,37,trabalhista,arquivado,acordo,Dra. Fontes,2026-03-25,2026-04-16,252880.5,8ª Vara Trabalhista De Recife,urgente
+24,6105303-92.2021.4.39.3868,59,civel,acordo_extrajudicial,ativo,Dr. Barros,2026-03-25,2026-03-27,419420.0,1ª Vara Trabalhista De Recife,cliente não responde
+25,5901155-82.2023.2.89.7717,97,civel,inicial,ativo,Dr. Barros,2024-07-05,2026-02-11,289730.0,7ª Vara Trabalhista De Recife,cliente não responde
+26,4229107-99.2020.7.61.3978,72,civel,recurso,encerrado,Dra. Cavalcante,2026-03-24,,424140.0,16ª Vara Cível De Recife,
+27,6075721-43.2020.9.85.8738,74,trabalhista,acordo_extrajudicial,ativo,Dr. Melo,2025-12-01,2026-07-05,145983.0,8ª Vara Trabalhista De Recife,aguardando documentos
+28,4384627-80.2021.2.13.1061,99,trabalhista,arquivado,ativo,Dra. Cavalcante,2026-04-05,2026-11-11,252880.5,14ª Vara Criminal De Recife,
+29,4568537-97.2021.4.82.7633,35,civel,arquivado,ativo,Dra. Cavalcante,2026-03-02,2026-03-13,410065.0,17ª Vara Cível De Recife,em negociação
+30,5239450-56.2022.7.99.2371,179,civel,inicial,encerrado,Dr. Barros,2025-07-03,2026-10-13,194801.0,5ª Vara Cível De Recife,
+31,8827641-36.2022.5.59.8715,41,trabalhista,execucao,ativo,Dr. Melo,2025-10-12,,372960.0,12ª Vara Trabalhista De Recife,
+32,8306601-19.2020.3.50.7457,71,trabalhista,arquivado,em_recurso,Dra. Cavalcante,2026-01-03,2026-04-17,286598.0,19ª Vara Trabalhista De Recife,
+33,6927716-18.2022.9.56.1445,160,civel,instrucao,suspenso,Dr. Melo,2025-11-18,2026-06-02,496816.0,5ª Vara Criminal De Recife,aguardando documentos
+34,8892606-62.2022.2.87.2168,116,civel,recurso,ativo,Dr. Barros,2025-08-01,2025-08-11,446063.0,1ª Vara Criminal De Recife,aguardando documentos
+35,3395583-64.2024.4.41.2181,105,trabalhista,arquivado,suspenso,Dr. Barros,2023-10-21,2025-05-08,25636.0,11ª Vara Cível De Recife,cliente não responde
+36,5316105-58.2020.3.22.3571,118,civel,arquivado,acordo,Dra. Fontes,2026-04-27,2026-12-15,239104.0,2ª Vara Trabalhista De Recife,cliente não responde
+37,2328070-99.2024.8.57.5561,15,civel,recurso,encerrado,Dra. Fontes,2025-01-12,2025-07-03,473242.0,17ª Vara Cível De Recife,
+38,9319285-35.2025.3.19.9131,176,civel,execucao,ativo,Dra. Fontes,2026-04-04,2026-12-18,252880.5,7ª Vara Cível De Recife,aguardando documentos
+39,5217157-98.2020.2.64.4094,131,trabalhista,acordo_extrajudicial,acordo,Dr. Barros,2025-05-13,,241239.0,13ª Vara Trabalhista De Recife,cliente não responde
+40,7141324-67.2025.3.86.3413,89,civel,sentenca,ativo,Dra. Cavalcante,2026-04-24,2026-07-20,308557.0,6ª Vara Criminal De Recife,cliente não responde
+41,9804642-71.2024.4.76.5486,16,trabalhista,inicial,ativo,Dr. Barros,2025-09-15,2026-11-28,252880.5,4ª Vara Cível De Recife,urgente
+42,5991409-16.2021.8.44.1303,72,civel,sentenca,em_recurso,Dr. Melo,2026-04-21,2026-06-22,220423.0,10ª Vara Criminal De Recife,urgente
+43,6414076-16.2021.7.78.8273,32,trabalhista,recurso,ativo,Dr. Barros,2025-08-14,2025-12-31,312038.0,10ª Vara Cível De Recife,aguardando documentos
+44,9498791-62.2022.6.73.9564,31,trabalhista,audiencia,em_recurso,Dra. Cavalcante,2025-06-30,2026-07-12,365620.0,19ª Vara Cível De Recife,
+45,8183950-10.2021.5.84.9388,103,civel,arquivado,em_recurso,Dra. Fontes,2025-12-28,2026-06-02,402473.0,11ª Vara Criminal De Recife,cliente não responde
+46,4417916-40.2022.7.26.4278,194,civel,audiencia,ativo,Dra. Fontes,2026-01-27,,87014.0,20ª Vara Trabalhista De Recife,
+47,5451988-41.2020.2.82.4041,166,civel,audiencia,em_recurso,Dr. Barros,2025-09-04,2026-11-26,115711.0,10ª Vara Trabalhista De Recife,
+48,1966014-66.2022.7.82.2137,136,civel,arquivado,encerrado,Dr. Melo,2026-01-10,2026-10-18,84192.0,20ª Vara Criminal De Recife,
+49,5462435-11.2024.9.85.2977,172,trabalhista,acordo_extrajudicial,encerrado,Dr. Melo,2026-02-03,2026-12-02,307305.0,13ª Vara Cível De Recife,
+50,5266269-78.2021.7.59.1392,75,trabalhista,arquivado,acordo,Dra. Fontes,2025-12-24,2026-07-07,91597.0,5ª Vara Cível De Recife,aguardando documentos
+51,1098476-20.2021.1.47.3336,60,trabalhista,inicial,ativo,Dr. Barros,2025-12-25,2026-10-06,149661.0,12ª Vara Criminal De Recife,em negociação
+52,7438163-48.2021.3.47.1186,56,civel,instrucao,encerrado,Dr. Melo,2025-10-01,,156777.0,1ª Vara Trabalhista De Recife,
+53,4961530-22.2021.4.22.6290,45,trabalhista,audiencia,ativo,Dr. Melo,2025-05-10,2025-05-19,252880.5,13ª Vara Trabalhista De Recife,
+54,7381740-86.2021.2.88.6570,44,trabalhista,recurso,ativo,Dra. Cavalcante,2026-02-28,2026-05-26,252880.5,19ª Vara Criminal De Recife,
+55,3785792-10.2020.5.78.7940,177,trabalhista,recurso,encerrado,Dr. Melo,2026-03-14,2026-08-12,239228.0,15ª Vara Cível De Recife,cliente não responde
+56,8588997-88.2020.6.29.5987,110,civel,sentenca,encerrado,Dr. Barros,2025-01-04,2026-05-30,127857.0,3ª Vara Trabalhista De Recife,
+57,4768255-51.2022.4.94.5695,28,trabalhista,sentenca,ativo,Dr. Barros,2026-02-14,,252880.5,9ª Vara Criminal De Recife,
+58,4180949-86.2020.3.26.7593,80,trabalhista,inicial,ativo,Dr. Barros,2024-12-28,2026-04-18,389295.0,4ª Vara Trabalhista De Recife,em negociação
+59,5492622-29.2021.9.92.7737,73,trabalhista,instrucao,acordo,Dr. Melo,2025-10-02,2026-12-24,438772.0,11ª Vara Criminal De Recife,
+60,2966787-79.2022.1.41.9944,95,trabalhista,inicial,ativo,Dr. Barros,2025-07-26,2026-06-08,270700.0,11ª Vara Cível De Recife,
+61,5996426-23.2022.8.20.3566,72,trabalhista,instrucao,ativo,Dr. Melo,2025-08-22,2025-11-21,285848.0,2ª Vara Trabalhista De Recife,cliente não responde
+62,5116418-16.2025.3.98.2234,158,trabalhista,execucao,em_recurso,Dra. Fontes,2026-01-20,2026-02-16,409180.0,11ª Vara Cível De Recife,
+63,2129757-49.2025.4.14.5657,17,trabalhista,arquivado,ativo,Dr. Melo,2025-12-27,2026-10-23,392016.0,16ª Vara Cível De Recife,
+64,7323234-16.2020.9.59.5035,47,civel,inicial,suspenso,Dra. Fontes,2025-02-03,,252880.5,6ª Vara Cível De Recife,em negociação
+65,4824419-32.2024.5.47.3265,169,trabalhista,sentenca,suspenso,Dr. Melo,2025-03-16,2026-06-05,451069.0,18ª Vara Criminal De Recife,
+66,3667022-35.2020.9.76.3115,168,civel,audiencia,suspenso,Dr. Melo,2025-10-14,2026-05-11,446276.0,6ª Vara Criminal De Recife,em negociação
+67,1093623-59.2025.7.92.5441,196,trabalhista,acordo_extrajudicial,ativo,Dr. Melo,2025-11-20,2026-02-15,252975.0,2ª Vara Cível De Recife,
+68,3242098-97.2025.4.44.9916,184,trabalhista,instrucao,ativo,Dra. Cavalcante,2025-10-30,,252880.5,7ª Vara Trabalhista De Recife,
+69,5614769-67.2022.9.87.1001,68,trabalhista,inicial,ativo,Dra. Fontes,2025-11-09,2026-10-23,463480.0,9ª Vara Trabalhista De Recife,
+70,1013314-48.2023.4.39.2083,180,trabalhista,inicial,suspenso,Dra. Cavalcante,2026-01-14,2026-07-27,310784.0,16ª Vara Trabalhista De Recife,aguardando documentos
+71,2997279-67.2024.9.84.1441,1,trabalhista,acordo_extrajudicial,encerrado,Dr. Melo,2026-02-13,,18510.0,4ª Vara Cível De Recife,
+72,4874996-38.2022.9.94.8154,96,trabalhista,instrucao,encerrado,Dr. Barros,2026-04-23,,141698.0,8ª Vara Criminal De Recife,
+73,6404948-40.2021.7.68.7161,190,civel,execucao,suspenso,Dra. Cavalcante,2026-01-29,2026-02-12,19310.0,17ª Vara Cível De Recife,
+74,9110060-16.2025.2.29.4716,191,civel,execucao,suspenso,Dr. Barros,2025-09-11,2026-03-15,310951.0,16ª Vara Trabalhista De Recife,cliente não responde
+75,7110796-41.2020.3.80.5362,85,trabalhista,sentenca,ativo,Dra. Cavalcante,2025-09-26,2026-07-01,458294.0,9ª Vara Cível De Recife,
+76,9992831-61.2022.4.35.1469,119,trabalhista,recurso,ativo,Dr. Melo,2025-05-29,2026-11-02,252880.5,3ª Vara Cível De Recife,urgente
+77,5953905-94.2022.5.44.3245,197,civel,recurso,encerrado,Dr. Melo,2025-09-04,2026-06-03,376551.0,10ª Vara Cível De Recife,
+78,9398629-61.2022.5.88.8253,64,trabalhista,acordo_extrajudicial,em_recurso,Dr. Melo,2025-08-02,2025-12-25,148520.0,13ª Vara Cível De Recife,
+79,1931030-34.2024.8.48.5319,50,civel,audiencia,ativo,Dr. Barros,2024-09-03,2026-07-20,397124.0,2ª Vara Cível De Recife,cliente não responde
+80,2842764-33.2025.7.99.7279,137,trabalhista,recurso,ativo,Dra. Fontes,2024-10-19,2026-03-10,35528.0,6ª Vara Cível De Recife,cliente não responde
+81,8607512-63.2021.6.82.1039,124,trabalhista,inicial,ativo,Dra. Cavalcante,2026-02-12,,25392.0,6ª Vara Cível De Recife,cliente não responde
+82,5733649-38.2020.2.35.3379,55,trabalhista,sentenca,suspenso,Dr. Melo,2025-08-29,2026-08-31,231890.0,7ª Vara Cível De Recife,
+83,6416661-36.2021.8.21.8496,198,civel,sentenca,encerrado,Dra. Cavalcante,2025-01-26,2026-03-19,292353.0,5ª Vara Trabalhista De Recife,em negociação
+84,1185885-59.2023.7.19.8433,107,trabalhista,acordo_extrajudicial,suspenso,Dr. Melo,2025-09-30,2026-04-16,327796.0,16ª Vara Criminal De Recife,urgente
+85,3346094-93.2020.2.94.1759,146,civel,audiencia,ativo,Dra. Fontes,2025-10-04,2026-11-02,25654.0,3ª Vara Cível De Recife,em negociação
+86,1735592-50.2022.9.87.5612,87,civel,audiencia,encerrado,Dr. Melo,2026-04-28,2026-09-22,204020.0,15ª Vara Criminal De Recife,
+87,1165147-13.2020.2.47.5874,3,trabalhista,sentenca,suspenso,Dra. Fontes,2025-10-15,2026-07-15,494565.0,2ª Vara Trabalhista De Recife,cliente não responde
+88,7765112-69.2024.9.62.5648,111,trabalhista,execucao,ativo,Dr. Barros,2025-03-03,,252880.5,17ª Vara Criminal De Recife,
+89,8368372-34.2020.6.43.9691,185,trabalhista,instrucao,acordo,Dra. Cavalcante,2025-11-02,2026-01-23,252880.5,4ª Vara Cível De Recife,
+90,3263740-44.2022.3.81.5402,181,civel,sentenca,encerrado,Dr. Barros,2025-12-18,2026-07-06,157161.0,18ª Vara Cível De Recife,em negociação
+91,8368255-39.2020.9.60.4414,52,trabalhista,arquivado,acordo,Dra. Fontes,2025-07-01,2026-04-13,252880.5,14ª Vara Criminal De Recife,urgente
+92,6036037-32.2025.3.53.7515,157,civel,arquivado,encerrado,Dr. Melo,2025-05-18,,252880.5,9ª Vara Trabalhista De Recife,aguardando documentos
+93,3922248-27.2025.1.42.4047,155,civel,arquivado,acordo,Dra. Cavalcante,2026-01-19,2026-12-01,310115.0,2ª Vara Cível De Recife,
+94,5068524-45.2025.9.91.6906,51,civel,arquivado,encerrado,Dra. Cavalcante,2023-09-25,,152207.0,9ª Vara Criminal De Recife,
+95,8630644-97.2025.3.28.1296,147,trabalhista,recurso,suspenso,Dr. Melo,2026-04-06,2026-12-15,71845.0,14ª Vara Cível De Recife,
+96,3496733-55.2020.2.43.8503,93,civel,inicial,ativo,Dra. Cavalcante,2026-03-17,2026-03-29,72791.0,20ª Vara Cível De Recife,
+97,1353022-94.2023.9.79.1203,164,trabalhista,sentenca,ativo,Dra. Cavalcante,2025-12-20,2026-12-21,316126.0,9ª Vara Trabalhista De Recife,cliente não responde
+98,4433355-55.2023.8.48.9346,98,civel,inicial,ativo,Dr. Melo,2026-04-08,2026-12-28,126338.0,3ª Vara Trabalhista De Recife,
+99,2869625-86.2025.7.14.5837,150,trabalhista,execucao,ativo,Dr. Barros,2025-01-21,2025-11-24,427601.0,9ª Vara Criminal De Recife,aguardando documentos
+100,5124342-11.2025.5.50.6107,104,trabalhista,instrucao,em_recurso,Dra. Fontes,2026-05-01,2026-06-14,225417.0,2ª Vara Cível De Recife,urgente
+101,1272937-41.2023.5.75.9958,149,trabalhista,arquivado,ativo,Dra. Cavalcante,2025-07-05,2025-07-10,489370.0,8ª Vara Criminal De Recife,
+102,9408522-77.2021.3.36.8376,101,civel,audiencia,ativo,Dra. Cavalcante,2026-04-26,,190155.0,15ª Vara Cível De Recife,em negociação
+103,5661974-14.2020.6.39.3137,160,trabalhista,instrucao,encerrado,Dra. Fontes,2024-10-01,2026-03-20,252880.5,16ª Vara Criminal De Recife,aguardando documentos
+104,1714231-74.2025.9.71.1697,198,trabalhista,recurso,acordo,Dr. Barros,2024-04-16,2025-12-19,475400.0,1ª Vara Cível De Recife,
+105,7599278-46.2021.4.96.3535,90,trabalhista,instrucao,em_recurso,Dr. Melo,2026-02-13,2026-10-24,112282.0,5ª Vara Criminal De Recife,
+106,1833330-93.2025.8.61.3405,34,civel,inicial,ativo,Dra. Fontes,2025-09-14,2025-10-02,138833.0,12ª Vara Trabalhista De Recife,urgente
+107,1869144-23.2023.5.84.3325,13,trabalhista,audiencia,ativo,Dra. Cavalcante,2025-09-09,2026-01-20,252880.5,7ª Vara Trabalhista De Recife,urgente
+108,9686751-57.2022.7.62.3494,171,civel,inicial,ativo,Dr. Barros,2025-09-20,2026-08-01,353069.0,9ª Vara Cível De Recife,
+109,8886588-26.2020.9.65.6361,192,trabalhista,acordo_extrajudicial,acordo,Dra. Cavalcante,2026-01-09,2026-05-13,353424.0,12ª Vara Trabalhista De Recife,em negociação
+110,6101036-60.2022.7.49.3295,173,trabalhista,instrucao,ativo,Dr. Barros,2025-09-25,2026-01-27,452276.0,15ª Vara Trabalhista De Recife,
+111,3260101-88.2022.8.37.9169,117,civel,execucao,ativo,Dra. Fontes,2025-12-31,2026-10-22,252880.5,9ª Vara Trabalhista De Recife,
+112,6339266-27.2025.5.15.6766,46,trabalhista,execucao,encerrado,Dr. Barros,2026-03-12,2026-04-02,173560.0,5ª Vara Cível De Recife,cliente não responde
+113,4507711-38.2024.2.34.4732,5,civel,recurso,ativo,Dr. Barros,2026-01-20,2026-05-18,252880.5,16ª Vara Cível De Recife,cliente não responde
+114,1628717-84.2025.8.67.8313,53,trabalhista,execucao,suspenso,Dra. Fontes,2025-12-23,2026-05-12,239562.0,18ª Vara Trabalhista De Recife,
+115,2554938-48.2024.1.13.4544,8,civel,recurso,encerrado,Dra. Fontes,2025-04-08,2026-02-10,252880.5,14ª Vara Cível De Recife,urgente
+116,3675188-38.2025.9.53.3305,67,trabalhista,arquivado,ativo,Dr. Melo,2026-02-17,2026-09-27,438662.0,7ª Vara Trabalhista De Recife,
+117,7813974-60.2021.1.81.1542,19,civel,arquivado,acordo,Dr. Melo,2026-03-21,,458763.0,7ª Vara Criminal De Recife,urgente
+118,5284129-51.2020.3.32.5205,112,trabalhista,inicial,encerrado,Dr. Barros,2024-10-09,2025-12-01,402679.0,5ª Vara Criminal De Recife,aguardando documentos
+119,2236315-26.2022.5.82.8939,11,civel,inicial,ativo,Dra. Cavalcante,2025-04-08,2026-07-31,408645.0,4ª Vara Trabalhista De Recife,em negociação
+120,3750497-13.2024.6.65.9009,18,civel,acordo_extrajudicial,acordo,Dra. Fontes,2024-12-07,2025-10-28,149488.0,17ª Vara Criminal De Recife,
+121,1621418-87.2020.9.55.9337,174,civel,inicial,ativo,Dra. Fontes,2026-03-17,2026-11-30,86398.0,2ª Vara Trabalhista De Recife,aguardando documentos
+122,1664676-19.2021.8.64.4616,139,trabalhista,audiencia,ativo,Dra. Fontes,2026-03-02,2026-05-01,368310.0,5ª Vara Criminal De Recife,cliente não responde
+123,7245951-43.2021.4.11.7623,140,trabalhista,audiencia,encerrado,Dra. Fontes,2025-11-17,,326143.0,10ª Vara Criminal De Recife,aguardando documentos
+124,8066975-72.2023.7.26.7675,115,trabalhista,arquivado,ativo,Dra. Cavalcante,2025-09-05,2025-11-25,277936.0,4ª Vara Trabalhista De Recife,cliente não responde
+125,3710559-31.2020.9.95.2540,83,civel,acordo_extrajudicial,ativo,Dr. Barros,2025-06-04,2026-02-21,252880.5,9ª Vara Criminal De Recife,cliente não responde
+126,6038940-61.2024.4.64.6408,128,trabalhista,arquivado,suspenso,Dr. Melo,2025-06-30,2026-07-06,252880.5,7ª Vara Trabalhista De Recife,em negociação
+127,7544569-30.2022.4.91.9370,66,civel,sentenca,acordo,Dra. Cavalcante,2025-07-27,2026-06-04,252880.5,19ª Vara Trabalhista De Recife,em negociação
+128,4893809-11.2021.7.19.9759,4,civel,acordo_extrajudicial,encerrado,Dr. Melo,2026-03-28,,252880.5,17ª Vara Trabalhista De Recife,
+129,7789809-22.2020.1.73.9031,58,trabalhista,arquivado,ativo,Dra. Cavalcante,2025-02-03,2026-01-15,252880.5,17ª Vara Trabalhista De Recife,
+130,2545435-52.2025.3.59.7623,130,civel,instrucao,acordo,Dr. Barros,2025-12-05,2026-04-27,432463.0,8ª Vara Trabalhista De Recife,em negociação
+131,6779292-61.2021.4.86.2783,121,civel,inicial,encerrado,Dra. Fontes,2025-09-29,2026-05-30,73717.0,14ª Vara Cível De Recife,
+132,6944389-98.2023.1.72.8245,27,civel,execucao,encerrado,Dr. Melo,2026-02-15,2026-08-17,289522.0,2ª Vara Criminal De Recife,
+133,1778149-24.2023.1.86.3557,167,trabalhista,instrucao,em_recurso,Dra. Fontes,2026-01-05,2026-06-02,73482.0,13ª Vara Trabalhista De Recife,
+134,5050722-10.2024.8.29.4298,63,civel,instrucao,ativo,Dr. Barros,2025-08-25,,252880.5,6ª Vara Trabalhista De Recife,
+135,1676369-34.2022.3.47.6087,36,civel,sentenca,encerrado,Dr. Barros,2025-08-10,2026-05-14,445845.0,20ª Vara Trabalhista De Recife,
+136,7274275-74.2020.1.22.9780,145,trabalhista,acordo_extrajudicial,ativo,Dr. Melo,2025-12-15,2026-01-08,370135.0,13ª Vara Criminal De Recife,
+137,5755257-93.2020.8.44.2882,12,civel,instrucao,ativo,Dra. Fontes,2025-07-27,2025-09-17,153232.0,4ª Vara Criminal De Recife,
+138,5438623-45.2022.4.51.7250,33,trabalhista,inicial,encerrado,Dra. Cavalcante,2026-02-10,2026-09-01,25799.0,5ª Vara Cível De Recife,
+139,8168054-14.2024.6.50.1232,186,civel,sentenca,ativo,Dra. Cavalcante,2025-10-07,2026-11-24,252880.5,8ª Vara Criminal De Recife,em negociação
+140,2837371-36.2022.7.88.5428,73,trabalhista,instrucao,ativo,Dr. Barros,2026-04-27,2026-08-11,118574.0,1ª Vara Cível De Recife,urgente
+141,7749444-78.2021.1.20.8763,112,civel,inicial,encerrado,Dr. Melo,2025-10-03,2026-11-05,48490.0,10ª Vara Criminal De Recife,
+142,6018860-77.2022.1.94.1315,43,trabalhista,audiencia,acordo,Dra. Cavalcante,2026-02-07,2026-06-01,252880.5,16ª Vara Cível De Recife,
+143,7687351-51.2022.6.73.6768,64,trabalhista,inicial,encerrado,Dra. Cavalcante,2025-09-18,2026-01-15,344090.0,17ª Vara Cível De Recife,
+144,4510407-23.2020.5.18.6055,161,civel,execucao,encerrado,Dra. Fontes,2025-11-04,2026-07-14,286113.0,4ª Vara Criminal De Recife,em negociação
+145,8816646-78.2020.7.70.9224,108,civel,execucao,acordo,Dr. Barros,2025-01-30,2026-09-16,315329.0,13ª Vara Criminal De Recife,cliente não responde
+146,1557680-16.2021.4.16.4031,163,trabalhista,recurso,encerrado,Dra. Cavalcante,2025-11-23,2026-05-17,237705.0,13ª Vara Criminal De Recife,
+147,5700249-43.2020.5.57.9341,195,trabalhista,instrucao,encerrado,Dr. Melo,2025-11-07,2026-03-10,208363.0,5ª Vara Trabalhista De Recife,
+148,2895065-46.2022.7.67.1438,175,civel,execucao,ativo,Dra. Cavalcante,2026-03-04,,252880.5,1ª Vara Criminal De Recife,
+149,2753004-76.2021.8.83.9874,194,civel,sentenca,ativo,Dra. Cavalcante,2026-03-26,2026-11-08,468508.0,9ª Vara Cível De Recife,
+150,9057219-99.2020.9.96.3254,21,trabalhista,sentenca,encerrado,Dr. Melo,2025-07-13,2026-05-12,252880.5,5ª Vara Criminal De Recife,em negociação
+151,2884639-86.2023.2.31.8737,152,civel,inicial,encerrado,Dra. Fontes,2025-10-18,2025-12-08,30828.0,8ª Vara Cível De Recife,
+152,2411026-52.2022.6.26.7373,101,trabalhista,acordo_extrajudicial,encerrado,Dr. Barros,2025-03-28,2025-06-05,252880.5,9ª Vara Criminal De Recife,em negociação
+153,2675642-32.2022.8.65.5499,24,civel,execucao,ativo,Dr. Barros,2026-02-20,2026-05-31,312324.0,2ª Vara Trabalhista De Recife,
+154,2231929-89.2024.6.41.5461,86,civel,instrucao,encerrado,Dra. Fontes,2025-05-16,2025-10-29,252880.5,13ª Vara Cível De Recife,em negociação
+155,9057960-29.2025.5.10.6072,14,trabalhista,execucao,ativo,Dr. Barros,2026-01-11,2026-01-26,226347.0,20ª Vara Cível De Recife,
+156,6368709-92.2024.7.99.9426,22,trabalhista,instrucao,em_recurso,Dr. Melo,2025-10-28,2026-09-07,252880.5,13ª Vara Cível De Recife,
+157,4865461-96.2025.2.64.9143,133,trabalhista,inicial,ativo,Dr. Barros,2024-03-24,2026-04-22,152563.0,13ª Vara Criminal De Recife,aguardando documentos
+158,1614850-25.2020.8.85.3161,198,civel,inicial,ativo,Dra. Fontes,2025-08-01,2025-11-13,184841.0,16ª Vara Trabalhista De Recife,
+159,4494463-44.2022.5.80.7542,6,trabalhista,acordo_extrajudicial,encerrado,Dr. Barros,2025-02-15,2026-08-28,70063.0,2ª Vara Criminal De Recife,cliente não responde
+160,1896520-28.2021.5.90.5374,156,trabalhista,sentenca,encerrado,Dra. Cavalcante,2024-01-27,2026-05-12,195914.0,15ª Vara Cível De Recife,cliente não responde
+161,7515318-25.2024.4.34.6280,159,trabalhista,arquivado,encerrado,Dr. Melo,2026-01-28,2026-03-17,321178.0,8ª Vara Criminal De Recife,cliente não responde
+162,2112478-55.2024.2.51.9095,94,trabalhista,recurso,ativo,Dr. Melo,2025-08-26,2025-09-24,309474.0,20ª Vara Cível De Recife,
+163,8905709-90.2020.9.55.2471,143,civel,arquivado,ativo,Dr. Barros,2024-12-21,2025-10-30,252880.5,6ª Vara Trabalhista De Recife,cliente não responde
+164,1757615-27.2025.7.10.3762,154,civel,execucao,em_recurso,Dr. Barros,2025-12-28,2026-07-06,252880.5,3ª Vara Criminal De Recife,urgente
+165,7640585-40.2023.1.57.1721,57,trabalhista,arquivado,ativo,Dr. Melo,2026-03-05,2026-10-21,254082.0,18ª Vara Cível De Recife,urgente
+166,2824928-33.2020.1.90.6467,91,trabalhista,audiencia,em_recurso,Dr. Melo,2025-10-11,,252880.5,5ª Vara Cível De Recife,cliente não responde
+167,4452862-76.2021.3.27.3238,194,civel,instrucao,suspenso,Dra. Cavalcante,2025-05-28,2026-08-30,171724.0,11ª Vara Cível De Recife,
+168,6953559-38.2025.7.42.9212,71,trabalhista,instrucao,suspenso,Dr. Melo,2026-03-30,2026-10-26,252880.5,8ª Vara Criminal De Recife,
+169,8936104-83.2022.1.39.7934,141,civel,execucao,em_recurso,Dr. Barros,2026-03-07,2026-04-30,411586.0,19ª Vara Trabalhista De Recife,urgente
+170,9086174-80.2025.1.81.3292,92,civel,acordo_extrajudicial,ativo,Dr. Barros,2025-06-16,,290978.0,14ª Vara Trabalhista De Recife,cliente não responde
+171,7633905-83.2022.9.95.2309,7,civel,instrucao,suspenso,Dr. Barros,2026-03-17,2026-09-10,252880.5,8ª Vara Trabalhista De Recife,
+172,5058333-37.2021.3.98.8848,26,civel,arquivado,ativo,Dra. Fontes,2025-05-30,2025-08-13,77601.0,16ª Vara Cível De Recife,cliente não responde
+173,3168718-77.2025.2.92.8027,79,trabalhista,execucao,suspenso,Dr. Barros,2025-03-05,2026-11-02,53998.0,10ª Vara Criminal De Recife,em negociação
+174,9076234-78.2023.3.90.2702,109,trabalhista,sentenca,acordo,Dr. Melo,2025-11-29,2026-11-28,252880.5,3ª Vara Trabalhista De Recife,em negociação
+175,4563779-48.2023.2.87.9606,76,civel,inicial,ativo,Dra. Fontes,2025-11-18,2026-01-30,36085.0,4ª Vara Trabalhista De Recife,
+176,5514997-95.2024.1.84.8098,48,civel,inicial,em_recurso,Dr. Barros,2026-01-16,2026-08-08,318150.0,19ª Vara Trabalhista De Recife,
+177,3505690-87.2020.8.52.6260,81,trabalhista,acordo_extrajudicial,ativo,Dr. Melo,2025-04-02,2026-09-16,458214.0,5ª Vara Criminal De Recife,
+178,5210656-44.2021.1.39.2474,100,civel,sentenca,ativo,Dr. Barros,2026-01-27,2026-08-04,397602.0,15ª Vara Cível De Recife,urgente
+179,1667591-67.2025.4.69.9424,126,civel,sentenca,encerrado,Dra. Cavalcante,2025-11-17,2026-12-04,232827.0,19ª Vara Cível De Recife,urgente
+180,1784068-27.2021.3.12.2538,123,trabalhista,sentenca,encerrado,Dr. Melo,2026-02-04,2026-11-06,176920.0,15ª Vara Cível De Recife,
+181,5271615-59.2021.2.54.6844,38,trabalhista,instrucao,encerrado,Dr. Barros,2025-06-03,2025-10-10,102289.0,7ª Vara Cível De Recife,
+182,9071705-28.2021.9.78.4746,129,civel,inicial,ativo,Dra. Cavalcante,2024-05-12,,205933.0,2ª Vara Cível De Recife,aguardando documentos
+183,5401874-62.2025.2.46.8337,113,trabalhista,recurso,encerrado,Dra. Fontes,2025-11-07,2026-10-11,191788.0,4ª Vara Cível De Recife,aguardando documentos
+184,6528202-89.2025.3.17.9496,122,civel,arquivado,encerrado,Dra. Fontes,2026-04-01,2026-09-05,67859.0,1ª Vara Cível De Recife,
+185,8986773-71.2022.6.45.5854,78,trabalhista,execucao,acordo,Dra. Cavalcante,2026-04-19,2026-06-22,18456.0,4ª Vara Trabalhista De Recife,
+186,1964519-55.2020.7.58.6781,114,civel,execucao,encerrado,Dr. Barros,2025-11-10,2026-03-14,168891.0,6ª Vara Cível De Recife,aguardando documentos
+187,4952151-27.2023.3.38.8762,102,trabalhista,arquivado,encerrado,Dra. Fontes,2025-11-24,2026-08-11,298683.0,12ª Vara Trabalhista De Recife,cliente não responde
+188,3418432-84.2025.3.59.5858,138,civel,audiencia,suspenso,Dr. Melo,2026-03-02,2026-09-19,465907.0,17ª Vara Cível De Recife,
+189,4131852-60.2020.1.89.9739,192,civel,sentenca,encerrado,Dr. Barros,2025-08-30,2025-09-15,252880.5,3ª Vara Criminal De Recife,cliente não responde
+190,5518767-82.2023.4.96.9873,178,civel,arquivado,ativo,Dra. Fontes,2026-04-14,2026-06-13,258336.0,11ª Vara Cível De Recife,cliente não responde
+191,7236875-79.2024.7.97.5566,65,trabalhista,inicial,encerrado,Dra. Cavalcante,2025-01-19,2026-01-23,261785.0,2ª Vara Criminal De Recife,aguardando documentos
+192,7553290-31.2023.9.36.9282,23,civel,acordo_extrajudicial,encerrado,Dra. Cavalcante,2025-02-21,2026-09-12,325852.0,15ª Vara Cível De Recife,
+193,4326518-76.2023.4.36.8530,189,trabalhista,execucao,ativo,Dra. Cavalcante,2025-09-18,2025-09-21,84714.0,10ª Vara Trabalhista De Recife,
+194,5631823-61.2020.5.47.1440,54,civel,instrucao,suspenso,Dr. Melo,2026-03-02,2026-11-23,402742.0,16ª Vara Criminal De Recife,
+195,4415624-13.2024.9.14.9480,144,trabalhista,arquivado,ativo,Dr. Melo,2025-10-20,2026-08-06,252880.5,14ª Vara Trabalhista De Recife,em negociação
+196,6836135-90.2022.9.37.5643,132,trabalhista,acordo_extrajudicial,acordo,Dra. Fontes,2025-10-13,2026-06-07,487475.0,10ª Vara Cível De Recife,aguardando documentos
+197,7999133-20.2023.7.26.1121,135,trabalhista,audiencia,em_recurso,Dr. Melo,2025-11-26,2026-08-10,5051.0,16ª Vara Trabalhista De Recife,
+198,5786762-52.2021.9.21.3037,137,trabalhista,audiencia,ativo,Dra. Cavalcante,2024-12-13,2026-10-26,252880.5,20ª Vara Criminal De Recife,
+199,8323566-47.2021.3.26.4644,39,civel,arquivado,suspenso,Dr. Barros,2025-09-02,2025-09-16,252880.5,2ª Vara Cível De Recife,
+200,9835331-11.2022.6.15.8602,188,civel,acordo_extrajudicial,ativo,Dr. Barros,2026-02-14,2026-03-31,103062.0,4ª Vara Cível De Recife,
+201,5788467-41.2023.8.93.8134,88,trabalhista,sentenca,ativo,Dra. Cavalcante,2025-10-06,2026-01-25,252880.5,14ª Vara Trabalhista De Recife,aguardando documentos
+202,4202942-75.2025.6.91.7611,139,trabalhista,sentenca,ativo,Dra. Fontes,2025-05-14,2026-09-17,252880.5,19ª Vara Trabalhista De Recife,urgente
+203,9214397-26.2023.4.18.6844,148,trabalhista,inicial,ativo,Dra. Fontes,2025-02-20,2025-11-15,323317.0,4ª Vara Criminal De Recife,
+204,1311508-84.2020.3.38.8512,84,trabalhista,instrucao,ativo,Dra. Cavalcante,2026-04-30,,306248.0,15ª Vara Criminal De Recife,urgente
+205,6865513-17.2021.7.21.3938,70,civel,arquivado,em_recurso,Dr. Melo,2025-09-06,2026-11-25,377322.0,6ª Vara Criminal De Recife,
+206,3510061-32.2020.9.13.4424,165,trabalhista,arquivado,encerrado,Dra. Cavalcante,2025-10-18,2025-10-19,343888.0,9ª Vara Trabalhista De Recife,aguardando documentos
+207,9898363-27.2020.4.89.2966,127,trabalhista,sentenca,ativo,Dra. Cavalcante,2025-12-25,,131581.0,15ª Vara Trabalhista De Recife,
+208,8415891-60.2021.6.92.5554,146,trabalhista,sentenca,ativo,Dr. Melo,2025-05-20,2026-12-08,252880.5,17ª Vara Cível De Recife,urgente
+209,9774395-92.2023.2.75.3192,170,civel,recurso,ativo,Dr. Melo,2025-12-02,2026-05-14,365748.0,18ª Vara Trabalhista De Recife,cliente não responde
+210,6992158-64.2024.5.43.7750,10,trabalhista,arquivado,ativo,Dr. Barros,2025-05-14,,170063.0,14ª Vara Criminal De Recife,
+211,3734843-61.2021.3.94.2954,187,trabalhista,execucao,acordo,Dr. Barros,2025-05-14,2026-03-09,123736.0,8ª Vara Trabalhista De Recife,
+212,2632721-15.2024.7.90.9593,82,civel,audiencia,encerrado,Dr. Barros,2025-11-08,2026-09-21,252880.5,18ª Vara Trabalhista De Recife,urgente
+213,7136189-41.2024.2.60.1768,125,civel,acordo_extrajudicial,encerrado,Dra. Fontes,2026-03-03,,102578.0,12ª Vara Criminal De Recife,
+214,8286382-50.2025.4.53.4414,101,trabalhista,instrucao,em_recurso,Dra. Fontes,2025-02-10,2025-08-04,132569.0,10ª Vara Criminal De Recife,
+215,8717678-27.2025.5.11.4526,134,civel,instrucao,acordo,Dra. Cavalcante,2025-08-27,2025-09-03,133038.0,4ª Vara Trabalhista De Recife,
+216,1754781-28.2025.6.89.2162,99,civel,sentenca,acordo,Dra. Cavalcante,2025-12-22,2026-08-25,42892.0,4ª Vara Trabalhista De Recife,urgente
+217,5035093-45.2021.1.27.3097,153,civel,instrucao,ativo,Dr. Barros,2026-01-09,,252880.5,16ª Vara Cível De Recife,urgente
+218,4601686-30.2021.5.52.7745,20,civel,inicial,suspenso,Dr. Barros,2025-10-10,2025-12-15,194584.0,2ª Vara Criminal De Recife,cliente não responde
+219,6034606-21.2023.6.18.6684,9,civel,recurso,ativo,Dra. Fontes,2025-10-18,2026-09-02,343894.0,4ª Vara Criminal De Recife,

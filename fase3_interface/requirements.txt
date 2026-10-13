@@ -1,0 +1,11 @@
+# Dependências da INTERFACE (Fase 3) — deploy no Streamlit Community Cloud.
+# O Streamlit Cloud tem um ambiente separado do backend, então precisa de um arquivo de dependências específico.
+# O Streamlit Cloud detecta este arquivo por estar na mesma pasta do entrypoint
+# (app.py). As versões espelham as do requirements.txt da raiz.
+
+streamlit==1.41.1
+plotly==5.24.1
+pandas==2.2.3
+httpx==0.28.1
+openai==1.59.2
+python-dotenv==1.0.1

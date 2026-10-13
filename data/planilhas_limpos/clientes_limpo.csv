@@ -1,0 +1,199 @@
+﻿cliente_id,nome,cpf,contato,email,data_inicio,cidade
+1,Fernanda Costa,570.649.227-58,não informado,cliente3@email.com,2020-11-18,Recife
+2,Ana Lima,231.775.586-80,(81) 99727-3060,cliente11@email.com,2021-11-07,Olinda
+3,Daniel Batista,533.520.578-16,(81) 98062-6804,,2021-02-07,Recife
+4,Vera Pires,283.854.440-62,(81) 97755-1406,cliente25@email.com,2022-10-13,Petrolina
+5,Mateus Queiroz,460.405.871-59,(81) 98814-1096,cliente37@email.com,2024-09-12,Petrolina
+6,Roberto Dias,742.761.140-49,(81) 93240-2591,,2024-12-10,Recife
+7,Vera Pires,872.331.980-96,,cliente72@email.com,2024-06-15,Recife
+8,Henrique Nascimento,408.569.758-13,(81) 91710-9543,cliente80@email.com,2020-09-06,Petrolina
+9,Jorge Brito,245.858.748-13,(81) 97566-2140,cliente86@email.com,2021-01-10,Petrolina
+10,Pedro Santos,929.685.767-34,(81) 91672-8368,cliente95@email.com,2023-08-09,Recife
+11,Beatriz Rocha,507.421.765-45,(81) 99674-7012,cliente116@email.com,2022-10-19,Recife
+12,Aline Monteiro,493.984.730-63,,cliente126@email.com,2022-10-13,Caruaru
+13,Tatiana Cruz,731.857.962-48,(81) 93662-7438,cliente131@email.com,2023-10-09,Recife
+14,Rafael Alves,202.523.438-70,(81) 94814-1860,cliente138@email.com,2021-02-15,Recife
+15,Marcos Carvalho,445.909.402-82,,cliente142@email.com,2022-03-02,Petrolina
+16,Maria Oliveira,452.817.165-79,não informado,cliente148@email.com,2020-09-03,Petrolina
+17,Carlos Souza,491.559.990-58,(81) 97887-7135,,2024-03-18,Recife
+18,Diego Nunes,405.574.789-79,(81) 91056-1372,cliente150@email.com,2024-10-03,Olinda
+19,Bruno Araújo,115.316.294-25,(81) 96455-5967,cliente156@email.com,2025-05-15,Petrolina
+20,Leonardo Campos,379.902.561-72,não informado,cliente167@email.com,2022-07-23,Petrolina
+21,Tatiana Cruz,545.382.531-48,(81) 92036-3739,cliente171@email.com,2025-06-06,Caruaru
+22,Amanda Castro,440.961.735-58,(81) 91110-7483,cliente172@email.com,2023-09-11,Recife
+23,Gabriela Teixeira,207.402.525-20,(81) 91402-8909,cliente178@email.com,2021-04-20,Caruaru
+24,Patricia Moura,168.407.145-24,(81) 98412-6225,cliente179@email.com,2020-04-02,Recife
+25,Maria Oliveira,319.310.385-18,não informado,cliente181@email.com,2021-02-20,Caruaru
+26,Leandro Pinto,601.395.243-33,(81) 93838-3733,cliente184@email.com,2023-07-12,Caruaru
+27,Jorge Brito,177.748.913-21,(81) 97146-8405,cliente191@email.com,2024-07-08,Recife
+28,Gabriela Teixeira,750.780.814-55,(81) 92526-8511,cliente192@email.com,2020-09-16,Olinda
+29,Gabriela Teixeira,771.193.820-22,(81) 94836-8032,cliente195@email.com,2020-01-05,Olinda
+30,Ana Lima,112.469.424-26,(81) 92163-9655,cliente200@email.com,2024-05-03,Caruaru
+31,André Borges,847.966.344-17,(81) 96081-8167,,2022-09-28,Recife
+32,Pedro Santos,143.572.151-31,(81) 96432-3007,cliente217@email.com,2024-11-09,Petrolina
+33,Maria Oliveira,135.728.734-88,(81) 98307-3435,cliente218@email.com,2022-10-03,Petrolina
+34,Daniel Batista,455.427.271-91,,cliente227@email.com,2020-12-29,Petrolina
+35,Marcos Carvalho,371.776.388-48,(81) 97705-9849,,2022-08-30,Recife
+36,Jorge Brito,180.799.545-35,(81) 91699-7936,cliente236@email.com,2021-08-28,Caruaru
+37,Cristina Azevedo,940.157.627-30,(81) 99462-7126,cliente241@email.com,2020-09-25,Olinda
+38,Mateus Queiroz,974.685.898-37,,cliente244@email.com,2022-06-25,Caruaru
+39,Roberto Dias,601.904.881-21,(81) 93762-3595,cliente253@email.com,2021-06-14,Petrolina
+40,Eduardo Ramos,180.570.554-83,(81) 97607-4850,,2025-01-09,Petrolina
+41,Leandro Pinto,402.749.247-48,(81) 97406-9941,cliente289@email.com,2024-03-08,Recife
+42,Camila Martins,572.760.662-19,(81) 91891-9992,cliente291@email.com,2023-04-05,Recife
+43,Marcos Carvalho,187.321.559-87,(81) 91305-5644,cliente303@email.com,2025-04-14,Olinda
+44,Tatiana Cruz,727.982.365-33,(81) 96331-6924,cliente322@email.com,2026-02-24,Petrolina
+45,Gabriela Teixeira,224.459.988-96,,cliente326@email.com,2022-03-25,Caruaru
+46,Diego Nunes,746.248.989-31,(81) 95694-8598,cliente327@email.com,2023-10-13,Recife
+47,Camila Martins,270.506.205-22,(81) 92311-4450,cliente329@email.com,2020-09-18,Recife
+48,Roberto Dias,255.449.502-94,(81) 95590-4695,,2021-07-16,Recife
+49,Patricia Moura,425.169.670-78,(81) 93378-3589,cliente368@email.com,2021-04-29,Recife
+50,Cristina Azevedo,882.115.376-62,(81) 91528-7694,cliente371@email.com,2022-06-30,Olinda
+51,Carlos Souza,398.550.507-48,,cliente374@email.com,2023-03-17,Caruaru
+52,Rafael Alves,867.692.468-14,(81) 93906-8460,cliente381@email.com,2021-01-16,Caruaru
+53,Rodrigo Cavalcanti,449.505.841-82,(81) 92865-6460,cliente386@email.com,2020-04-29,Caruaru
+54,Lucas Pereira,337.329.247-88,(81) 98625-8709,cliente397@email.com,2022-11-22,Olinda
+55,Felipe Barbosa,445.793.806-33,(81) 94193-9518,cliente416@email.com,2023-07-07,Recife
+56,André Borges,244.600.769-12,,cliente427@email.com,2025-04-14,Olinda
+57,Maria Oliveira,810.926.911-70,(81) 95648-7819,cliente431@email.com,2021-06-03,Recife
+58,Ana Lima,786.144.155-92,(81) 93888-3617,cliente434@email.com,2024-01-31,Caruaru
+59,Henrique Nascimento,333.200.342-62,(81) 92804-6343,cliente436@email.com,2022-03-30,Recife
+60,Ana Lima,751.464.149-47,(81) 96917-7873,cliente462@email.com,2023-04-09,Recife
+61,Maria Oliveira,580.221.359-15,(81) 99412-1971,cliente467@email.com,2020-09-28,Recife
+62,Beatriz Rocha,472.303.446-35,(81) 93764-2060,cliente473@email.com,2024-07-13,Recife
+63,Vera Pires,459.157.777-41,(81) 96855-7749,cliente480@email.com,2022-10-11,Recife
+64,Mariana Fonseca,319.394.371-16,(81) 92234-9779,cliente483@email.com,2023-05-02,Olinda
+65,Amanda Castro,359.616.734-58,(81) 91745-1087,cliente503@email.com,2023-05-24,Olinda
+66,Denise Nogueira,604.215.966-28,(81) 98949-8499,cliente507@email.com,2021-05-21,Caruaru
+67,Leandro Pinto,853.925.417-97,(81) 99042-8083,cliente512@email.com,2021-06-21,Caruaru
+68,Aline Monteiro,216.858.777-69,(81) 99248-1266,cliente516@email.com,2022-01-05,Recife
+69,Vanessa Correia,854.692.710-80,(81) 97810-9121,,2023-04-06,Petrolina
+70,Juliana Ferreira,394.843.296-70,não informado,cliente524@email.com,2023-11-09,Recife
+71,Larissa Ribeiro,912.525.605-48,(81) 99063-2653,cliente526@email.com,2022-08-19,Recife
+72,Diego Nunes,445.540.216-89,(81) 91523-2043,cliente527@email.com,2022-07-17,Petrolina
+73,João Silva,739.907.733-93,(81) 94360-9919,cliente534@email.com,2024-12-16,Olinda
+74,Maria Oliveira,247.287.361-21,(81) 93755-5675,cliente548@email.com,2021-09-23,Recife
+75,Marcos Carvalho,499.201.427-28,(81) 91958-5882,cliente549@email.com,2024-08-17,Petrolina
+76,Fernanda Costa,650.533.668-67,(81) 93755-5016,,2020-06-20,Recife
+77,Aline Monteiro,192.935.728-90,(81) 96862-4137,cliente557@email.com,2023-05-26,Olinda
+78,Bruno Araújo,348.240.916-15,(81) 98284-4046,cliente567@email.com,2020-09-04,Recife
+79,Bruno Araújo,300.122.280-43,(81) 95029-3925,,2021-02-18,Petrolina
+80,Bruno Araújo,246.556.165-61,,cliente588@email.com,2022-10-08,Petrolina
+81,Gustavo Lopes,207.616.884-51,,cliente591@email.com,2024-08-06,Olinda
+82,Vitor Macedo,754.811.791-69,,cliente592@email.com,2024-04-10,Olinda
+83,Isabela Cardoso,786.866.575-72,(81) 93236-6359,,2025-03-04,Recife
+84,Mateus Queiroz,344.304.193-12,(81) 95091-7138,,2024-09-23,Caruaru
+85,Pedro Santos,323.520.408-86,,cliente599@email.com,2025-08-08,Recife
+86,Jorge Brito,363.489.574-49,(81) 93503-3878,cliente608@email.com,2025-01-31,Recife
+87,Bruno Araújo,700.415.851-62,(81) 99735-7271,cliente613@email.com,2020-12-30,Olinda
+88,Natalia Mendes,199.171.892-99,(81) 99056-1025,cliente614@email.com,2024-09-07,Recife
+89,Mariana Fonseca,856.777.943-77,(81) 96653-5001,cliente649@email.com,2020-06-22,Recife
+90,Denise Nogueira,153.776.862-51,,cliente661@email.com,2022-05-18,Recife
+91,André Borges,230.296.528-80,(81) 93517-1717,cliente664@email.com,2022-10-31,Caruaru
+92,Lucas Pereira,213.259.161-92,(81) 91216-5698,cliente685@email.com,2020-05-11,Recife
+93,Marcos Carvalho,685.613.413-39,(81) 98443-5227,cliente686@email.com,2024-10-01,Recife
+94,Tatiana Cruz,397.468.738-65,(81) 93149-6554,cliente693@email.com,2020-06-12,Olinda
+95,Fábio Vieira,674.901.711-35,(81) 97375-1162,cliente703@email.com,2020-11-14,Caruaru
+96,Jorge Brito,605.610.147-45,,cliente725@email.com,2024-09-21,Olinda
+97,Pedro Santos,325.851.943-98,(81) 97437-2659,cliente738@email.com,2023-01-03,Olinda
+98,Eduardo Ramos,442.121.281-43,(81) 98775-8011,cliente740@email.com,2020-11-11,Recife
+99,Patricia Moura,395.212.108-73,(81) 98455-6685,cliente745@email.com,2021-08-25,Recife
+100,Jorge Brito,949.765.209-52,,cliente752@email.com,2021-02-02,Recife
+101,Mariana Fonseca,623.859.816-79,(81) 94943-3797,cliente756@email.com,2022-03-31,Caruaru
+102,Luciana Melo,972.850.262-39,,cliente761@email.com,2021-01-30,Recife
+103,Mariana Fonseca,225.481.842-28,(81) 95996-4453,cliente776@email.com,2020-05-26,Recife
+104,Jorge Brito,384.702.493-48,,,2020-12-12,Petrolina
+105,Camila Martins,715.521.803-40,(81) 98925-9014,cliente806@email.com,2020-04-28,Petrolina
+106,Ana Lima,366.155.374-72,(81) 97966-7531,cliente807@email.com,2022-06-15,Caruaru
+107,Thiago Gomes,117.608.845-60,(81) 95007-7265,cliente814@email.com,2024-03-06,Petrolina
+108,Mateus Queiroz,751.672.331-54,(81) 92093-6741,cliente822@email.com,2020-02-27,Caruaru
+109,Marcos Carvalho,153.240.623-66,,cliente825@email.com,2024-10-08,Caruaru
+110,Vitor Macedo,958.634.424-77,(81) 96816-6107,cliente826@email.com,2020-11-16,Olinda
+111,Leonardo Campos,545.195.447-59,(81) 94460-5946,cliente847@email.com,2022-01-06,Caruaru
+112,Isabela Cardoso,111.597.769-95,(81) 97291-8449,cliente849@email.com,2024-07-03,Caruaru
+113,Paulo Rezende,682.569.141-19,(81) 94999-9577,cliente854@email.com,2023-08-30,Recife
+114,Thiago Gomes,724.355.270-82,(81) 91374-6325,cliente865@email.com,2025-04-16,Recife
+115,Tatiana Cruz,976.954.410-57,(81) 95306-8732,cliente885@email.com,2021-08-16,Recife
+116,Maria Oliveira,902.126.439-13,(81) 96260-1466,,2025-04-11,Petrolina
+117,Thiago Gomes,563.546.666-20,(81) 96695-6030,cliente912@email.com,2025-08-29,Olinda
+118,Renata Freitas,755.620.436-63,(81) 95519-5123,cliente920@email.com,2022-10-26,Recife
+119,Tatiana Cruz,220.882.344-56,(81) 92615-2555,cliente922@email.com,2024-09-23,Caruaru
+120,Cristina Azevedo,545.486.184-72,(81) 97984-7623,cliente944@email.com,2020-04-07,Recife
+121,Carlos Souza,856.246.552-86,(81) 97076-8177,cliente953@email.com,2020-06-17,Olinda
+122,Pedro Santos,551.171.963-41,não informado,cliente955@email.com,2025-12-04,Olinda
+123,Amanda Castro,584.488.588-31,(81) 93221-7241,cliente967@email.com,2020-03-22,Petrolina
+124,Vanessa Correia,193.835.193-10,(81) 92329-4040,cliente975@email.com,2024-11-08,Olinda
+125,Diego Nunes,989.575.563-29,(81) 97606-8596,cliente981@email.com,2021-08-04,Petrolina
+126,Leonardo Campos,909.485.533-99,(81) 95627-5066,cliente990@email.com,2020-02-14,Olinda
+127,Ana Lima,267.830.340-21,(81) 92675-9565,cliente994@email.com,2024-01-15,Recife
+128,Gustavo Lopes,526.757.908-60,,cliente995@email.com,2021-09-26,Olinda
+129,Beatriz Rocha,622.883.396-73,(81) 97484-1315,cliente997@email.com,2020-04-06,Recife
+130,Isabela Cardoso,309.289.215-15,(81) 99385-7646,cliente1000@email.com,2024-05-06,Olinda
+131,Sonia Tavares,223.751.862-97,(81) 98486-4353,cliente1005@email.com,2020-05-04,Olinda
+132,Vanessa Correia,935.911.310-98,(81) 93612-3285,,2024-06-11,Recife
+133,Gustavo Lopes,480.161.622-11,(81) 97401-1183,cliente1026@email.com,2021-04-06,Recife
+134,Tatiana Cruz,920.318.293-94,(81) 94992-8870,cliente1027@email.com,2025-04-28,Recife
+135,Sonia Tavares,891.756.140-57,(81) 92390-3384,cliente1031@email.com,2023-02-10,Recife
+136,Ana Lima,243.285.225-56,(81) 96130-2956,,2020-08-11,Caruaru
+137,Lucas Pereira,827.212.830-41,(81) 98453-3869,cliente1051@email.com,2021-10-25,Recife
+138,Tatiana Cruz,175.714.476-48,não informado,cliente1053@email.com,2021-04-18,Petrolina
+139,Simone Cunha,618.269.111-22,(81) 94169-6084,cliente1057@email.com,2021-08-20,Recife
+140,João Silva,102.582.281-14,(81) 93488-1841,cliente1068@email.com,2021-06-30,Recife
+141,Leonardo Campos,784.693.360-60,(81) 91634-4759,,2022-12-22,Recife
+142,Felipe Barbosa,680.209.347-46,(81) 91332-2031,cliente1104@email.com,2022-10-29,Recife
+143,Vera Pires,326.855.319-37,(81) 98229-3223,,2024-02-28,Recife
+144,Fábio Vieira,962.601.936-37,não informado,cliente1110@email.com,2024-08-13,Recife
+145,Leandro Pinto,186.882.261-37,(81) 97887-2778,cliente1114@email.com,2020-10-26,Petrolina
+146,Amanda Castro,637.650.195-43,(81) 92369-6556,cliente1118@email.com,2022-12-05,Olinda
+147,Carlos Souza,251.739.552-19,(81) 92464-9486,cliente1119@email.com,2024-09-25,Recife
+148,Beatriz Rocha,367.263.187-79,(81) 95749-5786,cliente1122@email.com,2021-08-28,Caruaru
+149,Natalia Mendes,367.740.850-43,(81) 99671-1081,cliente1127@email.com,2021-12-27,Petrolina
+150,Marcos Carvalho,529.874.834-26,(81) 91339-4976,cliente1129@email.com,2024-02-17,Olinda
+151,Fernanda Costa,648.517.865-15,(81) 93130-9514,cliente1141@email.com,2024-02-11,Olinda
+152,Larissa Ribeiro,801.566.174-51,(81) 97328-3523,,2022-05-21,Olinda
+153,Daniel Batista,507.755.220-68,(81) 98749-3539,cliente1150@email.com,2024-09-06,Recife
+154,Sonia Tavares,130.952.268-71,,,2022-07-05,Recife
+155,Claudia Silveira,981.608.341-61,,cliente1168@email.com,2025-10-23,Recife
+156,Larissa Ribeiro,343.917.536-67,(81) 99593-2595,,2023-07-23,Olinda
+157,Mateus Queiroz,567.492.730-77,(81) 96797-3905,cliente1186@email.com,2021-05-14,Recife
+158,João Silva,525.368.601-30,(81) 99512-5009,cliente1195@email.com,2022-04-15,Caruaru
+159,Maria Oliveira,458.591.575-51,(81) 93899-3960,cliente1196@email.com,2022-12-02,Recife
+160,Rafael Alves,164.568.803-37,(81) 98680-3876,cliente1198@email.com,2022-03-23,Recife
+161,Eduardo Ramos,133.355.160-25,(81) 94634-5676,cliente1218@email.com,2020-03-10,Petrolina
+162,Daniel Batista,953.164.191-48,,cliente1244@email.com,2020-10-29,Recife
+163,Andre Borges,946.142.361-52,(81) 97341-5045,,2022-03-07,Caruaru
+164,Paulo Rezende,112.136.978-99,(81) 94760-6006,cliente1268@email.com,2021-03-01,Petrolina
+165,Juliana Ferreira,116.164.808-76,(81) 93879-1034,cliente1275@email.com,2024-04-29,Recife
+166,Gustavo Lopes,952.792.909-22,(81) 97695-6183,,2020-05-22,Petrolina
+167,Jorge Brito,954.176.439-12,(81) 97212-8168,cliente1279@email.com,2020-07-07,Petrolina
+168,Simone Cunha,472.131.479-85,(81) 98951-2190,cliente1283@email.com,2024-10-22,Recife
+169,João Silva,174.902.572-56,(81) 97038-3280,cliente1285@email.com,2023-10-06,Petrolina
+170,Marcos Carvalho,838.906.386-10,(81) 93669-6375,,2020-08-27,Olinda
+171,Mateus Queiroz,106.593.167-17,(81) 99884-7113,cliente1291@email.com,2023-12-10,Recife
+172,Felipe Barbosa,579.403.318-56,(81) 94001-2125,cliente1296@email.com,2024-11-28,Caruaru
+173,Claudia Silveira,806.692.221-10,,cliente1306@email.com,2023-02-10,Olinda
+174,Luciana Melo,502.602.569-58,,cliente1311@email.com,2021-10-05,Olinda
+175,Marcos Carvalho,500.288.392-23,(81) 95179-3130,cliente1312@email.com,2025-02-24,Recife
+176,Carlos Souza,350.105.752-79,,cliente1314@email.com,2026-03-26,Olinda
+177,Thiago Gomes,291.474.782-17,(81) 95615-8551,cliente1335@email.com,2024-02-02,Olinda
+178,Leandro Pinto,239.345.476-85,(81) 98425-5524,cliente1340@email.com,2021-05-01,Recife
+179,Vitor Macedo,609.298.758-30,(81) 91796-2842,cliente1344@email.com,2020-04-13,Caruaru
+180,Patricia Moura,573.644.680-92,(81) 98045-7611,cliente1362@email.com,2025-02-02,Olinda
+181,Pedro Santos,716.888.289-26,,cliente1363@email.com,2024-11-28,Petrolina
+182,Vanessa Correia,960.752.312-90,(81) 96773-4886,cliente1364@email.com,2023-06-18,Recife
+183,Patricia Moura,191.529.935-35,(81) 98375-6071,cliente1367@email.com,2024-04-28,Recife
+184,Carlos Souza,303.138.702-59,(81) 94614-8704,cliente1368@email.com,2023-01-20,Petrolina
+185,Aline Monteiro,536.406.340-20,(81) 97775-4381,cliente1370@email.com,2023-07-10,Recife
+186,Rodrigo Cavalcanti,350.110.143-48,(81) 93058-1610,cliente1375@email.com,2023-02-13,Petrolina
+187,Alexandre Paiva,379.687.647-38,(81) 91662-1714,,2021-10-05,Olinda
+188,Juliana Ferreira,654.809.406-54,(81) 99736-5046,cliente1417@email.com,2025-07-30,Recife
+189,João Silva,221.955.132-30,(81) 96352-3800,cliente1423@email.com,2024-06-20,Recife
+190,Thiago Gomes,204.270.818-86,(81) 96696-4574,,2020-08-18,Petrolina
+191,Larissa Ribeiro,310.488.875-61,(81) 99698-9129,cliente1455@email.com,2021-07-26,Olinda
+192,Claudia Silveira,128.975.262-79,(81) 93977-8486,cliente1458@email.com,2024-09-23,Petrolina
+193,João Silva,936.821.799-62,(81) 95201-2125,,2020-11-09,Recife
+194,Juliana Ferreira,528.607.511-43,(81) 97746-1735,cliente1462@email.com,2020-01-15,Recife
+195,Lucas Pereira,983.990.338-20,(81) 92111-3791,cliente1467@email.com,2020-05-22,Petrolina
+196,Camila Martins,987.114.467-52,(81) 99055-3431,cliente1485@email.com,2020-01-07,Recife
+197,Daniel Batista,162.575.716-32,(81) 92874-1519,,2022-06-16,Petrolina
+198,Jorge Brito,490.842.147-49,(81) 95236-6112,cliente1500@email.com,2021-12-28,Petrolina
